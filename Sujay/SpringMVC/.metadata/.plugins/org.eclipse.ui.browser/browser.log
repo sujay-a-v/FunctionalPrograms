@@ -1,0 +1,1204 @@
+
+Oct 27, 2017 11:19:05.95 NEW SESSION
+Oct 27, 2017 11:19:05.95 [6306:6343:1027/111905.938500:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 11:19:06.05 Created new window in existing browser session.
+Oct 27, 2017 11:26:09.89 [6440:6477:1027/112609.895883:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 11:26:09.99 Created new window in existing browser session.
+Oct 27, 2017 11:31:18.73 [6685:6722:1027/113118.733582:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 11:31:18.84 Created new window in existing browser session.
+Oct 27, 2017 11:46:18.69 [6949:6986:1027/114618.692130:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 11:46:18.80 Created new window in existing browser session.
+Oct 27, 2017 11:54:25.73 [7309:7346:1027/115425.732673:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 11:54:25.84 Created new window in existing browser session.
+Oct 27, 2017 11:56:09.06 [7459:7496:1027/115609.066503:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 11:56:09.19 Created new window in existing browser session.
+Oct 27, 2017 12:02:53.10 [7695:7732:1027/120253.103540:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:02:53.23 Created new window in existing browser session.
+Oct 27, 2017 12:13:02.27 [8062:8099:1027/121302.279607:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:13:02.38 Created new window in existing browser session.
+Oct 27, 2017 12:16:40.82 [8223:8260:1027/121640.825013:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:16:40.95 Created new window in existing browser session.
+Oct 27, 2017 12:18:31.77 [8369:8406:1027/121831.775594:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:18:31.89 Created new window in existing browser session.
+Oct 27, 2017 12:19:20.49 [8508:8546:1027/121920.495273:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:19:20.61 Created new window in existing browser session.
+Oct 27, 2017 12:25:07.02 [8797:8834:1027/122507.020902:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:25:07.14 Created new window in existing browser session.
+Oct 27, 2017 12:25:49.83 [8903:8939:1027/122549.832626:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:25:49.95 Created new window in existing browser session.
+Oct 27, 2017 12:30:34.97 [9080:9117:1027/123034.974824:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:30:35.09 Created new window in existing browser session.
+Oct 27, 2017 12:34:32.48 [9222:9259:1027/123432.487232:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:34:32.61 Created new window in existing browser session.
+Oct 27, 2017 12:39:16.30 [9369:9406:1027/123916.300480:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:39:16.41 Created new window in existing browser session.
+Oct 27, 2017 12:40:41.98 [9484:9521:1027/124041.984476:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:40:42.09 Created new window in existing browser session.
+Oct 27, 2017 12:41:57.76 [9592:9629:1027/124157.765737:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:41:57.90 Created new window in existing browser session.
+Oct 27, 2017 12:51:05.93 [9859:9896:1027/125105.931885:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 12:51:06.03 Created new window in existing browser session.
+Oct 27, 2017 13:04:54.80 [10015:10052:1027/130454.803194:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 13:04:54.89 Created new window in existing browser session.
+Oct 27, 2017 13:09:11.92 [10246:10283:1027/130911.925915:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 13:09:12.02 Created new window in existing browser session.
+Oct 27, 2017 15:26:43.13 [10637:10674:1027/152643.136959:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 15:26:43.28 Created new window in existing browser session.
+Oct 27, 2017 15:49:40.81 [11384:11421:1027/154940.819368:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 15:49:40.92 Created new window in existing browser session.
+Oct 27, 2017 15:52:04.16 [11504:11541:1027/155204.162335:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 15:52:04.27 Created new window in existing browser session.
+Oct 27, 2017 15:58:20.11 [11684:11721:1027/155820.113512:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 15:58:20.23 Created new window in existing browser session.
+Oct 27, 2017 16:00:05.14 [11814:11851:1027/160005.142873:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 16:00:05.24 Created new window in existing browser session.
+Oct 27, 2017 16:01:31.83 [11945:11982:1027/160131.830923:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 16:01:31.95 Created new window in existing browser session.
+Oct 27, 2017 16:03:59.91 [12063:12100:1027/160359.919081:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 16:04:00.04 Created new window in existing browser session.
+Oct 27, 2017 16:32:16.36 [12604:12641:1027/163216.368460:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 16:32:16.47 Created new window in existing browser session.
+Oct 27, 2017 16:56:54.80 [13001:13038:1027/165654.808068:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 16:56:54.91 Created new window in existing browser session.
+Oct 27, 2017 17:56:36.19 [13728:13765:1027/175636.198924:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 17:56:36.31 Created new window in existing browser session.
+Oct 27, 2017 19:01:17.62 [14184:14221:1027/190117.620157:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 27, 2017 19:01:17.74 Created new window in existing browser session.
+
+Oct 28, 2017 10:19:11.81 NEW SESSION
+Oct 28, 2017 10:19:11.81 [3969:4006:1028/101911.811685:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 10:19:11.98 Created new window in existing browser session.
+Oct 28, 2017 11:21:01.65 [5050:5087:1028/112101.658855:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 11:21:01.77 Created new window in existing browser session.
+Oct 28, 2017 11:42:16.88 [5651:5688:1028/114216.889199:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 11:42:17.01 Created new window in existing browser session.
+Oct 28, 2017 12:14:31.42 [6119:6156:1028/121431.420832:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:14:31.52 Created new window in existing browser session.
+Oct 28, 2017 12:14:58.30 [6226:6262:1028/121458.308314:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:14:58.42 Created new window in existing browser session.
+Oct 28, 2017 12:16:42.48 [6392:6429:1028/121642.480060:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:16:42.62 Created new window in existing browser session.
+Oct 28, 2017 12:19:23.35 [6671:6707:1028/121923.356502:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:19:23.45 Created new window in existing browser session.
+Oct 28, 2017 12:26:30.07 [6933:6972:1028/122630.076630:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:26:30.20 Created new window in existing browser session.
+Oct 28, 2017 12:27:39.64 [7073:7110:1028/122739.641144:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:27:39.76 Created new window in existing browser session.
+Oct 28, 2017 12:29:01.87 [7227:7264:1028/122901.877918:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:29:02.00 Created new window in existing browser session.
+Oct 28, 2017 12:29:42.33 [7340:7376:1028/122942.334626:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:29:42.45 Created new window in existing browser session.
+Oct 28, 2017 12:30:34.76 [7530:7566:1028/123034.760136:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:30:34.83 Created new window in existing browser session.
+Oct 28, 2017 12:42:35.78 [7761:7798:1028/124235.788513:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:42:35.91 Created new window in existing browser session.
+Oct 28, 2017 12:44:35.62 [7881:7918:1028/124435.625110:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:44:35.73 Created new window in existing browser session.
+Oct 28, 2017 12:56:25.38 [8538:8575:1028/125625.385787:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 12:56:25.50 Created new window in existing browser session.
+Oct 28, 2017 13:03:47.15 [8690:8727:1028/130347.158861:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 13:03:47.28 Created new window in existing browser session.
+Oct 28, 2017 13:08:32.58 [8874:8911:1028/130832.583939:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 13:08:32.71 Created new window in existing browser session.
+Oct 28, 2017 13:17:14.87 [9180:9217:1028/131714.874205:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 13:17:14.98 Created new window in existing browser session.
+Oct 28, 2017 13:18:01.76 Created new window in existing browser session.
+Oct 28, 2017 13:20:28.25 [9414:9451:1028/132028.257509:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 13:20:28.35 Created new window in existing browser session.
+Oct 28, 2017 15:53:14.64 [9922:9959:1028/155314.641020:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 15:53:14.74 Created new window in existing browser session.
+
+Oct 28, 2017 16:36:05.87 NEW SESSION
+Oct 28, 2017 16:36:05.87 [11420:11457:1028/163605.872904:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 16:36:05.98 Created new window in existing browser session.
+Oct 28, 2017 16:59:13.24 [12081:12117:1028/165913.244824:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 16:59:13.34 Created new window in existing browser session.
+Oct 28, 2017 17:01:09.33 [12244:12281:1028/170109.334938:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:01:09.44 Created new window in existing browser session.
+Oct 28, 2017 17:05:05.12 [12613:12650:1028/170505.127514:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:05:05.24 Created new window in existing browser session.
+Oct 28, 2017 17:11:20.76 [12837:12874:1028/171120.762616:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:11:20.87 Created new window in existing browser session.
+Oct 28, 2017 17:14:08.77 [13015:13052:1028/171408.775550:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:14:08.87 Created new window in existing browser session.
+Oct 28, 2017 17:15:29.15 [13156:13193:1028/171529.158656:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:15:29.26 Created new window in existing browser session.
+Oct 28, 2017 17:35:37.09 [13520:13557:1028/173537.094145:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:35:37.21 Created new window in existing browser session.
+Oct 28, 2017 17:37:51.43 [13690:13727:1028/173751.430748:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:37:51.56 Created new window in existing browser session.
+Oct 28, 2017 17:47:34.61 [14056:14093:1028/174734.616102:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 28, 2017 17:47:34.71 Created new window in existing browser session.
+
+Oct 30, 2017 09:53:23.02 NEW SESSION
+Oct 30, 2017 09:53:23.02 [4097:4134:1030/095323.022411:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 09:53:23.16 Created new window in existing browser session.
+Oct 30, 2017 09:53:59.47 [4230:4266:1030/095359.474725:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 09:53:59.59 Created new window in existing browser session.
+
+Oct 30, 2017 16:42:47.97 NEW SESSION
+Oct 30, 2017 16:42:47.97 [11953:11990:1030/164247.970520:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 16:42:48.27 Created new window in existing browser session.
+Oct 30, 2017 17:36:30.93 [13320:13357:1030/173630.934573:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 17:36:31.04 Created new window in existing browser session.
+Oct 30, 2017 17:37:25.81 [13431:13467:1030/173725.813680:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 17:37:25.93 Created new window in existing browser session.
+Oct 30, 2017 17:39:25.22 [13568:13605:1030/173925.226659:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 17:39:25.35 Created new window in existing browser session.
+
+Oct 30, 2017 18:27:21.21 NEW SESSION
+Oct 30, 2017 18:27:21.21 [14990:15026:1030/182721.218353:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:27:21.33 Created new window in existing browser session.
+Oct 30, 2017 18:27:36.49 [15098:15134:1030/182736.492032:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:27:36.60 Created new window in existing browser session.
+Oct 30, 2017 18:32:34.86 [15488:15525:1030/183234.868036:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:32:34.95 Created new window in existing browser session.
+Oct 30, 2017 18:33:37.07 [15646:15683:1030/183337.073576:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:33:37.14 Created new window in existing browser session.
+Oct 30, 2017 18:34:35.99 [15776:15813:1030/183435.990678:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:34:36.07 Created new window in existing browser session.
+Oct 30, 2017 18:37:37.59 [15971:16008:1030/183737.595154:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:37:37.66 Created new window in existing browser session.
+Oct 30, 2017 18:40:13.98 [16130:16167:1030/184013.983914:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:40:14.04 Created new window in existing browser session.
+Oct 30, 2017 18:44:40.03 [16408:16445:1030/184440.039464:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:44:40.08 Created new window in existing browser session.
+Oct 30, 2017 18:45:14.06 [16508:16544:1030/184514.066524:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:45:14.14 Created new window in existing browser session.
+Oct 30, 2017 18:49:37.30 [16661:16698:1030/184937.304760:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:49:37.37 Created new window in existing browser session.
+
+Oct 30, 2017 18:53:27.56 NEW SESSION
+Oct 30, 2017 18:53:27.57 [17061:17098:1030/185327.568251:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:53:27.68 Created new window in existing browser session.
+Oct 30, 2017 18:54:55.73 [17167:17204:1030/185455.730660:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 18:54:55.83 Created new window in existing browser session.
+Oct 30, 2017 19:25:39.31 [17351:17388:1030/192539.308316:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:25:39.44 Created new window in existing browser session.
+Oct 30, 2017 19:25:47.53 [17453:17489:1030/192547.533859:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:25:47.64 Created new window in existing browser session.
+Oct 30, 2017 19:26:45.06 [17563:17599:1030/192645.066194:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:26:45.16 Created new window in existing browser session.
+Oct 30, 2017 19:28:33.38 [17760:17796:1030/192833.384135:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:28:33.49 Created new window in existing browser session.
+Oct 30, 2017 19:29:34.25 [17949:17985:1030/192934.255092:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:29:34.35 Created new window in existing browser session.
+Oct 30, 2017 19:30:06.51 [18047:18083:1030/193006.511009:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:30:06.63 Created new window in existing browser session.
+Oct 30, 2017 19:30:48.13 [18231:18267:1030/193048.133900:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 30, 2017 19:30:48.23 Created new window in existing browser session.
+
+Oct 31, 2017 12:47:18.08 NEW SESSION
+Oct 31, 2017 12:47:18.08 [7695:7732:1031/124718.083670:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 12:47:18.27 Created new window in existing browser session.
+
+Oct 31, 2017 13:14:01.82 NEW SESSION
+Oct 31, 2017 13:14:01.82 [8140:8178:1031/131401.825010:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 13:14:01.89 Created new window in existing browser session.
+Oct 31, 2017 16:01:59.54 [9767:9804:1031/160159.541630:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:01:59.65 Created new window in existing browser session.
+Oct 31, 2017 16:08:34.57 [9985:10022:1031/160834.578055:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:08:34.70 Created new window in existing browser session.
+Oct 31, 2017 16:17:52.79 [10267:10304:1031/161752.798549:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:17:52.89 Created new window in existing browser session.
+Oct 31, 2017 16:19:26.16 [10389:10426:1031/161926.162831:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:19:26.28 Created new window in existing browser session.
+Oct 31, 2017 16:20:12.84 [10510:10546:1031/162012.841953:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:20:12.93 Created new window in existing browser session.
+Oct 31, 2017 16:22:04.90 [10628:10665:1031/162204.905980:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:22:05.01 Created new window in existing browser session.
+Oct 31, 2017 16:23:27.37 [10817:10854:1031/162327.376867:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:23:27.47 Created new window in existing browser session.
+Oct 31, 2017 16:25:18.53 [10987:11024:1031/162518.538799:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:25:18.64 Created new window in existing browser session.
+Oct 31, 2017 16:25:52.70 [11094:11130:1031/162552.707493:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:25:52.81 Created new window in existing browser session.
+Oct 31, 2017 16:41:34.06 [11383:11420:1031/164134.061543:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 16:41:34.17 Created new window in existing browser session.
+Oct 31, 2017 17:25:09.63 [11715:11752:1031/172509.631406:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 17:25:09.74 Created new window in existing browser session.
+Oct 31, 2017 17:26:45.03 [11876:11913:1031/172645.037032:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 17:26:45.14 Created new window in existing browser session.
+
+Oct 31, 2017 21:52:29.84 NEW SESSION
+Oct 31, 2017 21:52:29.84 [5591:5628:1031/215229.845227:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Oct 31, 2017 21:52:30.05 Created new window in existing browser session.
+
+Nov 01, 2017 09:54:40.24 NEW SESSION
+Nov 01, 2017 09:54:40.24 [3629:3666:1101/095440.243129:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 09:54:40.41 Created new window in existing browser session.
+Nov 01, 2017 10:16:07.31 [3944:3981:1101/101607.316742:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:16:07.45 Created new window in existing browser session.
+Nov 01, 2017 10:16:47.73 [4066:4102:1101/101647.737344:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:16:47.85 Created new window in existing browser session.
+Nov 01, 2017 10:17:23.56 [4197:4233:1101/101723.567573:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:17:23.68 Created new window in existing browser session.
+Nov 01, 2017 10:18:17.71 [4396:4432:1101/101817.710499:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:18:17.82 Created new window in existing browser session.
+Nov 01, 2017 10:19:43.14 [4513:4550:1101/101943.149313:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:19:43.26 Created new window in existing browser session.
+Nov 01, 2017 10:27:04.52 [4863:4899:1101/102704.525530:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:27:04.61 Created new window in existing browser session.
+Nov 01, 2017 10:28:57.12 [5186:5222:1101/102857.125338:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:28:57.23 Created new window in existing browser session.
+Nov 01, 2017 10:29:53.98 [5323:5359:1101/102953.984005:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:29:54.09 Created new window in existing browser session.
+Nov 01, 2017 10:30:33.20 [5427:5463:1101/103033.200979:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:30:33.29 Created new window in existing browser session.
+Nov 01, 2017 10:35:17.33 [5602:5639:1101/103517.335855:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:35:17.47 Created new window in existing browser session.
+Nov 01, 2017 10:35:59.21 [5725:5761:1101/103559.217145:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:35:59.33 Created new window in existing browser session.
+Nov 01, 2017 10:41:09.95 [5893:5930:1101/104109.958803:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:41:10.08 Created new window in existing browser session.
+Nov 01, 2017 10:43:15.28 [6019:6056:1101/104315.285273:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:43:15.38 Created new window in existing browser session.
+Nov 01, 2017 10:50:30.85 [6186:6223:1101/105030.855804:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:50:30.95 Created new window in existing browser session.
+Nov 01, 2017 10:52:39.79 [6396:6432:1101/105239.796866:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 10:52:39.90 Created new window in existing browser session.
+Nov 01, 2017 11:13:59.20 [6942:6979:1101/111359.199888:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:13:59.30 Created new window in existing browser session.
+Nov 01, 2017 11:26:40.72 [7282:7319:1101/112640.724249:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:26:40.84 Created new window in existing browser session.
+Nov 01, 2017 11:28:07.30 [7396:7432:1101/112807.302782:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:28:07.43 Created new window in existing browser session.
+Nov 01, 2017 11:29:34.46 [7528:7567:1101/112934.462446:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:29:34.58 Created new window in existing browser session.
+Nov 01, 2017 11:30:22.43 [7651:7687:1101/113022.436063:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:30:22.49 Created new window in existing browser session.
+Nov 01, 2017 11:35:40.17 [7881:7918:1101/113540.172755:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:35:40.23 Created new window in existing browser session.
+Nov 01, 2017 11:38:42.90 [8143:8179:1101/113842.901208:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:38:43.04 Created new window in existing browser session.
+Nov 01, 2017 11:40:48.78 [8502:8538:1101/114048.787941:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:40:48.89 Created new window in existing browser session.
+Nov 01, 2017 11:44:36.07 [8772:8808:1101/114436.073970:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:44:36.19 Created new window in existing browser session.
+Nov 01, 2017 11:45:35.89 [8962:8998:1101/114535.890323:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:45:35.99 Created new window in existing browser session.
+Nov 01, 2017 11:47:24.38 [9068:9105:1101/114724.383164:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:47:24.44 Created new window in existing browser session.
+Nov 01, 2017 11:48:02.30 [9253:9289:1101/114802.306864:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:48:02.39 Created new window in existing browser session.
+Nov 01, 2017 11:52:22.62 [9445:9482:1101/115222.626982:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:52:22.71 Created new window in existing browser session.
+Nov 01, 2017 11:55:40.61 [9596:9633:1101/115540.609813:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 11:55:40.67 Created new window in existing browser session.
+Nov 01, 2017 12:02:49.12 [9836:9873:1101/120249.126115:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:02:49.19 Created new window in existing browser session.
+Nov 01, 2017 12:10:33.92 [10015:10052:1101/121033.929084:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:10:34.00 Created new window in existing browser session.
+Nov 01, 2017 12:16:32.79 [10263:10300:1101/121632.791116:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:16:32.86 Created new window in existing browser session.
+Nov 01, 2017 12:19:04.92 [10393:10430:1101/121904.923287:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:19:05.01 Created new window in existing browser session.
+Nov 01, 2017 12:20:44.93 [10511:10548:1101/122044.937470:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:20:45.02 Created new window in existing browser session.
+Nov 01, 2017 12:22:51.37 [10649:10686:1101/122251.373656:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:22:51.45 Created new window in existing browser session.
+Nov 01, 2017 12:24:04.82 [10764:10801:1101/122404.823742:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:24:04.89 Created new window in existing browser session.
+Nov 01, 2017 12:32:37.54 [11068:11105:1101/123237.549779:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:32:37.61 Created new window in existing browser session.
+Nov 01, 2017 12:34:14.87 [11205:11242:1101/123414.879046:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:34:14.94 Created new window in existing browser session.
+Nov 01, 2017 12:53:42.13 [11694:11731:1101/125342.132527:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 12:53:42.20 Created new window in existing browser session.
+Nov 01, 2017 13:02:06.53 [12074:12110:1101/130206.533173:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 13:02:06.62 Created new window in existing browser session.
+Nov 01, 2017 13:04:46.46 [12193:12230:1101/130446.460181:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 13:04:46.57 Created new window in existing browser session.
+Nov 01, 2017 13:05:36.70 [12377:12413:1101/130536.708925:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 13:05:36.84 Created new window in existing browser session.
+Nov 01, 2017 13:13:43.09 [12593:12630:1101/131343.089872:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 13:13:43.19 Created new window in existing browser session.
+Nov 01, 2017 13:14:25.16 [12781:12817:1101/131425.160227:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 13:14:25.26 Created new window in existing browser session.
+Nov 01, 2017 15:15:02.89 [14087:14124:1101/151502.895511:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:15:03.01 Created new window in existing browser session.
+Nov 01, 2017 15:16:58.09 [14278:14315:1101/151658.091491:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:16:58.22 Created new window in existing browser session.
+Nov 01, 2017 15:19:50.90 [14404:14441:1101/151950.905908:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:19:51.02 Created new window in existing browser session.
+Nov 01, 2017 15:25:30.35 [14563:14600:1101/152530.357497:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:25:30.46 Created new window in existing browser session.
+Nov 01, 2017 15:31:23.97 [14788:14825:1101/153123.969784:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:31:24.09 Created new window in existing browser session.
+Nov 01, 2017 15:33:13.79 [14901:14938:1101/153313.797427:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:33:13.92 Created new window in existing browser session.
+Nov 01, 2017 15:48:26.54 [15197:15234:1101/154826.541463:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:48:26.63 Created new window in existing browser session.
+Nov 01, 2017 15:57:46.29 [15400:15437:1101/155746.292298:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 15:57:46.41 Created new window in existing browser session.
+Nov 01, 2017 16:09:50.18 [15721:15758:1101/160950.185352:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 16:09:50.29 Created new window in existing browser session.
+Nov 01, 2017 16:16:50.38 [15946:15983:1101/161650.386958:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 16:16:50.50 Created new window in existing browser session.
+Nov 01, 2017 16:29:26.54 [16197:16234:1101/162926.545901:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 16:29:26.65 Created new window in existing browser session.
+Nov 01, 2017 17:15:48.72 [17050:17087:1101/171548.724919:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 17:15:48.84 Created new window in existing browser session.
+Nov 01, 2017 17:21:14.58 [17188:17225:1101/172114.583806:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 17:21:14.71 Created new window in existing browser session.
+Nov 01, 2017 17:28:52.61 [17380:17417:1101/172852.611317:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 17:28:52.73 Created new window in existing browser session.
+Nov 01, 2017 17:34:55.16 [17558:17595:1101/173455.167601:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 17:34:55.28 Created new window in existing browser session.
+Nov 01, 2017 17:36:57.67 [17729:17767:1101/173657.676535:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 17:36:57.83 Created new window in existing browser session.
+Nov 01, 2017 17:38:30.56 [17976:18012:1101/173830.562087:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 17:38:30.70 Created new window in existing browser session.
+Nov 01, 2017 18:01:08.07 [18126:18163:1101/180108.077478:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 18:01:08.19 Created new window in existing browser session.
+Nov 01, 2017 18:05:06.43 [18334:18370:1101/180506.431850:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 18:05:06.54 Created new window in existing browser session.
+Nov 01, 2017 18:06:21.81 [18450:18487:1101/180621.819374:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 18:06:21.92 Created new window in existing browser session.
+Nov 01, 2017 18:09:32.00 [18610:18647:1101/180932.002489:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 18:09:32.12 Created new window in existing browser session.
+Nov 01, 2017 18:25:08.95 [18863:18899:1101/182508.956790:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 01, 2017 18:25:09.05 Created new window in existing browser session.
+
+Nov 02, 2017 09:19:36.11 NEW SESSION
+Nov 02, 2017 09:19:36.11 [3142:3179:1102/091936.113962:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 09:19:36.32 Created new window in existing browser session.
+
+Nov 02, 2017 10:45:45.16 NEW SESSION
+Nov 02, 2017 10:45:45.16 [6018:6055:1102/104545.156827:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 10:45:45.22 Created new window in existing browser session.
+Nov 02, 2017 11:01:04.88 [6576:6613:1102/110104.882862:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 11:01:04.95 Created new window in existing browser session.
+Nov 02, 2017 11:02:45.53 [6764:6802:1102/110245.538350:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 11:02:45.62 Created new window in existing browser session.
+Nov 02, 2017 11:04:49.91 [6903:6940:1102/110449.909875:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 11:04:49.97 Created new window in existing browser session.
+Nov 02, 2017 11:14:22.98 [7159:7196:1102/111422.983067:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 11:14:23.05 Created new window in existing browser session.
+Nov 02, 2017 12:00:36.63 [7818:7855:1102/120036.638038:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 12:00:36.76 Created new window in existing browser session.
+Nov 02, 2017 12:01:29.84 [8091:8127:1102/120129.847475:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 12:01:29.96 Created new window in existing browser session.
+Nov 02, 2017 12:02:04.54 [8207:8243:1102/120204.545519:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 12:02:04.66 Created new window in existing browser session.
+Nov 02, 2017 12:02:36.83 [8394:8430:1102/120236.839065:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 12:02:36.94 Created new window in existing browser session.
+Nov 02, 2017 12:04:39.21 Created new window in existing browser session.
+Nov 02, 2017 13:32:13.85 [9140:9177:1102/133213.854196:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 13:32:13.98 Created new window in existing browser session.
+Nov 02, 2017 14:45:30.37 [9690:9726:1102/144530.371986:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 14:45:30.47 Created new window in existing browser session.
+Nov 02, 2017 14:58:52.05 [10149:10185:1102/145852.057717:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 14:58:52.14 Created new window in existing browser session.
+Nov 02, 2017 15:06:02.07 [10354:10391:1102/150602.076919:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 15:06:02.14 Created new window in existing browser session.
+Nov 02, 2017 16:24:51.35 [10979:11016:1102/162451.359456:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 16:24:51.43 Created new window in existing browser session.
+Nov 02, 2017 16:28:25.80 [11229:11266:1102/162825.805870:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 16:28:26.00 Created new window in existing browser session.
+Nov 02, 2017 16:29:45.22 [11355:11392:1102/162945.223497:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 16:29:45.33 Created new window in existing browser session.
+Nov 02, 2017 16:46:37.78 [11679:11716:1102/164637.786910:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 16:46:37.90 Created new window in existing browser session.
+Nov 02, 2017 16:54:00.81 [11994:12031:1102/165400.813895:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 16:54:00.92 Created new window in existing browser session.
+Nov 02, 2017 16:57:45.21 [12162:12199:1102/165745.212464:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 16:57:45.31 Created new window in existing browser session.
+Nov 02, 2017 17:06:46.55 [12446:12483:1102/170646.550740:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 17:06:46.67 Created new window in existing browser session.
+Nov 02, 2017 17:34:53.50 [12774:12811:1102/173453.509025:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 17:34:53.63 Created new window in existing browser session.
+Nov 02, 2017 18:46:00.26 [13648:13685:1102/184600.269272:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 18:46:00.40 Created new window in existing browser session.
+Nov 02, 2017 18:53:34.55 [13893:13930:1102/185334.550493:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 02, 2017 18:53:34.66 Created new window in existing browser session.
+
+Nov 03, 2017 10:44:48.49 NEW SESSION
+Nov 03, 2017 10:44:48.49 [3617:3654:1103/104448.492737:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 03, 2017 10:44:48.85 Created new window in existing browser session.
+
+Nov 04, 2017 09:42:56.53 NEW SESSION
+Nov 04, 2017 09:42:56.53 [4367:4404:1104/094256.531010:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 09:42:56.71 Created new window in existing browser session.
+Nov 04, 2017 09:44:01.21 [4472:4509:1104/094401.215770:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 09:44:01.54 Created new window in existing browser session.
+Nov 04, 2017 09:51:16.70 [4758:4794:1104/095116.704236:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 09:51:16.81 Created new window in existing browser session.
+Nov 04, 2017 09:58:22.02 [4982:5019:1104/095822.025092:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 09:58:22.12 Created new window in existing browser session.
+Nov 04, 2017 10:01:04.28 [5139:5176:1104/100104.288187:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:01:04.37 Created new window in existing browser session.
+Nov 04, 2017 10:12:13.86 [5453:5490:1104/101213.862278:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:12:13.94 Created new window in existing browser session.
+Nov 04, 2017 10:15:24.13 [5651:5688:1104/101524.131826:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:15:24.20 Created new window in existing browser session.
+Nov 04, 2017 10:18:31.23 [5812:5849:1104/101831.239425:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:18:31.32 Created new window in existing browser session.
+Nov 04, 2017 10:19:42.27 [5923:5960:1104/101942.276858:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:19:42.35 Created new window in existing browser session.
+Nov 04, 2017 10:38:55.65 [6185:6222:1104/103855.651798:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:38:55.70 Created new window in existing browser session.
+Nov 04, 2017 10:46:48.68 [6513:6550:1104/104648.686171:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 10:46:48.77 Created new window in existing browser session.
+Nov 04, 2017 12:47:41.32 [8678:8715:1104/124741.324143:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 12:47:41.43 Created new window in existing browser session.
+Nov 04, 2017 12:48:41.10 [8866:8902:1104/124841.103100:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 12:48:41.20 Created new window in existing browser session.
+Nov 04, 2017 12:52:28.30 [9075:9111:1104/125228.308380:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 12:52:28.38 Created new window in existing browser session.
+Nov 04, 2017 12:56:12.55 [9332:9369:1104/125612.555517:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 12:56:12.64 Created new window in existing browser session.
+Nov 04, 2017 12:59:15.47 [9558:9595:1104/125915.474124:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 12:59:15.54 Created new window in existing browser session.
+Nov 04, 2017 13:12:23.02 [9878:9917:1104/131223.028173:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 13:12:23.13 Created new window in existing browser session.
+Nov 04, 2017 14:22:39.61 [11117:11154:1104/142239.615638:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 14:22:39.71 Created new window in existing browser session.
+Nov 04, 2017 14:30:30.42 [11465:11502:1104/143030.420500:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 14:30:30.51 Created new window in existing browser session.
+Nov 04, 2017 14:35:40.96 [11816:11853:1104/143540.969473:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 14:35:41.11 Created new window in existing browser session.
+Nov 04, 2017 14:37:54.85 [11988:12025:1104/143754.856461:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 14:37:54.94 Created new window in existing browser session.
+Nov 04, 2017 14:58:20.53 [12490:12527:1104/145820.537259:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 14:58:20.64 Created new window in existing browser session.
+Nov 04, 2017 15:03:36.22 [12701:12738:1104/150336.227321:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:03:36.35 Created new window in existing browser session.
+Nov 04, 2017 15:07:12.80 [12870:12907:1104/150712.805386:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:07:12.92 Created new window in existing browser session.
+Nov 04, 2017 15:13:15.41 [13114:13151:1104/151315.414214:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:13:15.52 Created new window in existing browser session.
+
+Nov 04, 2017 15:24:05.81 NEW SESSION
+Nov 04, 2017 15:24:05.81 [3094:3131:1104/152405.809870:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:24:06.34 Created new window in existing browser session.
+Nov 04, 2017 15:26:36.74 [3244:3281:1104/152636.744146:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:26:36.81 Created new window in existing browser session.
+Nov 04, 2017 15:26:55.71 [3348:3384:1104/152655.711232:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:26:55.78 Created new window in existing browser session.
+Nov 04, 2017 15:33:52.20 [3818:3855:1104/153352.205467:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:33:52.28 Created new window in existing browser session.
+Nov 04, 2017 15:43:10.13 [4032:4069:1104/154310.139212:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 15:43:10.21 Created new window in existing browser session.
+Nov 04, 2017 17:40:02.89 [5120:5156:1104/174002.893814:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+Nov 04, 2017 17:41:29.58 [5120:5120:1104/174129.589565:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+Nov 04, 2017 17:57:29.39 [6216:6253:1104/175729.397568:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 17:57:29.51 Created new window in existing browser session.
+Nov 04, 2017 17:59:03.87 [6353:6390:1104/175903.872613:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 17:59:03.99 Created new window in existing browser session.
+Nov 04, 2017 18:03:43.47 [6703:6740:1104/180343.476875:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:03:43.58 Created new window in existing browser session.
+Nov 04, 2017 18:05:59.72 [6889:6926:1104/180559.723589:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:05:59.83 Created new window in existing browser session.
+Nov 04, 2017 18:08:27.19 [7090:7127:1104/180827.191413:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:08:27.29 Created new window in existing browser session.
+Nov 04, 2017 18:14:19.66 [7412:7449:1104/181419.663665:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:14:19.78 Created new window in existing browser session.
+Nov 04, 2017 18:14:52.09 [7552:7588:1104/181452.094422:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:14:52.20 Created new window in existing browser session.
+Nov 04, 2017 18:18:00.73 [7697:7734:1104/181800.734820:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:18:00.85 Created new window in existing browser session.
+Nov 04, 2017 18:26:26.27 [8076:8112:1104/182626.279021:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:26:26.34 Created new window in existing browser session.
+Nov 04, 2017 18:28:07.76 [8317:8353:1104/182807.761422:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:28:07.83 Created new window in existing browser session.
+Nov 04, 2017 18:29:52.95 [8482:8519:1104/182952.953578:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:29:53.00 Created new window in existing browser session.
+Nov 04, 2017 18:36:45.89 [8836:8873:1104/183645.891279:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:36:45.96 Created new window in existing browser session.
+Nov 04, 2017 18:42:16.95 [9263:9299:1104/184216.954769:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:42:17.03 Created new window in existing browser session.
+Nov 04, 2017 18:43:34.89 [9374:9411:1104/184334.897231:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:43:34.98 Created new window in existing browser session.
+Nov 04, 2017 18:56:28.90 [9861:9898:1104/185628.905870:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 18:56:28.97 Created new window in existing browser session.
+Nov 04, 2017 19:00:20.96 [10309:10346:1104/190020.962699:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:00:21.08 Created new window in existing browser session.
+Nov 04, 2017 19:01:04.61 [10473:10509:1104/190104.619628:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:01:04.73 Created new window in existing browser session.
+Nov 04, 2017 19:02:15.17 [10663:10700:1104/190215.172909:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:02:15.26 Created new window in existing browser session.
+Nov 04, 2017 19:08:26.16 [11161:11198:1104/190826.159957:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:08:26.27 Created new window in existing browser session.
+Nov 04, 2017 19:13:51.34 [5120:5156:1104/191351.342345:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+Nov 04, 2017 19:21:12.81 [11772:11809:1104/192112.817156:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:21:12.90 Created new window in existing browser session.
+Nov 04, 2017 19:23:12.86 [11921:11958:1104/192312.861035:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:23:12.98 Created new window in existing browser session.
+
+Nov 04, 2017 19:23:45.79 NEW SESSION
+Nov 04, 2017 19:23:45.79 Created new window in existing browser session.
+Nov 04, 2017 19:25:31.50 [12360:12397:1104/192531.507185:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:25:31.60 Created new window in existing browser session.
+Nov 04, 2017 19:30:22.79 [12704:12741:1104/193022.792468:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:30:22.91 Created new window in existing browser session.
+Nov 04, 2017 19:36:50.19 [12947:12984:1104/193650.191776:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:36:50.22 Created new window in existing browser session.
+Nov 04, 2017 19:38:03.02 [13092:13129:1104/193803.025191:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 04, 2017 19:38:03.08 Created new window in existing browser session.
+
+Nov 05, 2017 13:19:15.81 NEW SESSION
+Nov 05, 2017 13:19:15.81 Created new window in existing browser session.
+Nov 05, 2017 13:22:35.08 [4810:4847:1105/132235.082671:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 13:22:35.16 Created new window in existing browser session.
+Nov 05, 2017 13:25:32.54 [5051:5088:1105/132532.541133:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 13:25:32.61 Created new window in existing browser session.
+Nov 05, 2017 13:52:00.84 [5494:5531:1105/135200.843789:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 13:52:00.91 Created new window in existing browser session.
+Nov 05, 2017 13:53:13.17 [5703:5740:1105/135313.173778:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 13:53:13.30 Created new window in existing browser session.
+Nov 05, 2017 15:16:13.35 [6403:6440:1105/151613.358677:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 15:16:13.42 Created new window in existing browser session.
+Nov 05, 2017 15:17:16.79 [6596:6632:1105/151716.798813:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 15:17:16.93 Created new window in existing browser session.
+Nov 05, 2017 15:24:15.30 [6838:6875:1105/152415.302966:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 15:24:15.36 Created new window in existing browser session.
+Nov 05, 2017 15:26:55.60 [7057:7093:1105/152655.604342:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 05, 2017 15:26:55.67 Created new window in existing browser session.
+
+Nov 06, 2017 11:29:26.44 NEW SESSION
+Nov 06, 2017 11:29:26.44 [3761:3798:1106/112926.443336:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 06, 2017 11:29:26.66 Created new window in existing browser session.
+Nov 06, 2017 16:25:03.77 [6745:6781:1106/162503.771110:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 06, 2017 16:25:03.89 Created new window in existing browser session.
+Nov 06, 2017 16:53:41.66 [7281:7318:1106/165341.668951:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 06, 2017 16:53:41.79 Created new window in existing browser session.
+Nov 06, 2017 17:40:04.47 [8018:8054:1106/174004.469989:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 06, 2017 17:40:04.53 Created new window in existing browser session.
+Nov 06, 2017 19:30:07.57 [10588:10624:1106/193007.571997:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 06, 2017 19:30:07.68 Created new window in existing browser session.
+
+Nov 07, 2017 11:17:24.58 NEW SESSION
+Nov 07, 2017 11:17:24.58 [4711:4748:1107/111724.582276:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 11:17:24.75 Created new window in existing browser session.
+Nov 07, 2017 11:24:49.52 [5314:5350:1107/112449.526038:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 11:24:49.61 Created new window in existing browser session.
+Nov 07, 2017 11:30:28.90 [5627:5663:1107/113028.903325:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 11:30:28.98 Created new window in existing browser session.
+Nov 07, 2017 12:20:36.07 [6806:6843:1107/122036.073720:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 12:20:36.18 Created new window in existing browser session.
+Nov 07, 2017 12:22:10.40 [7000:7036:1107/122210.406203:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 12:22:10.52 Created new window in existing browser session.
+
+Nov 07, 2017 12:31:53.32 NEW SESSION
+Nov 07, 2017 12:31:53.32 [7689:7726:1107/123153.327314:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 12:31:53.45 Created new window in existing browser session.
+Nov 07, 2017 12:37:35.24 [8034:8071:1107/123735.242628:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 12:37:35.37 Created new window in existing browser session.
+
+Nov 07, 2017 12:46:41.68 NEW SESSION
+Nov 07, 2017 12:46:41.68 [8339:8376:1107/124641.686292:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 12:46:41.79 Created new window in existing browser session.
+Nov 07, 2017 14:56:54.88 [10849:10886:1107/145654.884582:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 14:56:54.97 Created new window in existing browser session.
+Nov 07, 2017 15:43:01.76 [12115:12152:1107/154301.769103:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 15:43:01.88 Created new window in existing browser session.
+Nov 07, 2017 15:45:00.52 [12412:12448:1107/154500.522617:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 15:45:00.62 Created new window in existing browser session.
+Nov 07, 2017 15:55:21.38 Created new window in existing browser session.
+Nov 07, 2017 16:46:51.76 Created new window in existing browser session.
+Nov 07, 2017 17:25:11.27 [15511:15548:1107/172511.272225:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 17:25:11.42 Created new window in existing browser session.
+Nov 07, 2017 18:08:47.90 [18104:18141:1107/180847.901587:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 18:08:48.02 Created new window in existing browser session.
+Nov 07, 2017 19:09:49.23 [21569:21606:1107/190949.230591:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 19:09:49.31 Created new window in existing browser session.
+Nov 07, 2017 20:15:26.08 [25109:25147:1107/201526.087903:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 20:15:26.18 Created new window in existing browser session.
+Nov 07, 2017 20:35:46.31 [26548:26585:1107/203546.315694:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 20:35:46.40 Created new window in existing browser session.
+Nov 07, 2017 21:29:22.24 [30396:30432:1107/212922.249697:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 07, 2017 21:29:22.36 Created new window in existing browser session.
+
+Nov 08, 2017 09:19:44.12 NEW SESSION
+Nov 08, 2017 09:19:44.12 [3258:3295:1108/091944.121305:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 09:19:44.25 Created new window in existing browser session.
+Nov 08, 2017 09:23:25.57 [3664:3700:1108/092325.576259:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 09:23:25.71 Created new window in existing browser session.
+Nov 08, 2017 09:25:58.12 [3877:3914:1108/092558.124265:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 09:25:58.19 Created new window in existing browser session.
+Nov 08, 2017 09:26:58.12 [4032:4068:1108/092658.122087:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 09:26:58.19 Created new window in existing browser session.
+Nov 08, 2017 10:07:47.27 [4826:4863:1108/100747.275997:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:07:47.39 Created new window in existing browser session.
+Nov 08, 2017 10:12:18.98 [5066:5103:1108/101218.982246:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:12:19.11 Created new window in existing browser session.
+Nov 08, 2017 10:29:54.28 [5548:5584:1108/102954.285430:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:29:54.39 Created new window in existing browser session.
+Nov 08, 2017 10:31:00.33 [5656:5693:1108/103100.332033:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:31:00.44 Created new window in existing browser session.
+Nov 08, 2017 10:32:02.94 [5903:5940:1108/103202.945473:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:32:03.04 Created new window in existing browser session.
+Nov 08, 2017 10:33:14.92 Created new window in existing browser session.
+Nov 08, 2017 10:35:51.17 [6504:6540:1108/103551.178274:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:35:51.27 Created new window in existing browser session.
+Nov 08, 2017 10:37:41.86 [6739:6775:1108/103741.863311:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:37:41.98 Created new window in existing browser session.
+Nov 08, 2017 10:38:12.19 [6847:6883:1108/103812.193571:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:38:12.31 Created new window in existing browser session.
+Nov 08, 2017 10:40:45.99 [7017:7054:1108/104045.999286:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:40:46.10 Created new window in existing browser session.
+Nov 08, 2017 10:43:26.86 [7248:7285:1108/104326.868946:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:43:26.97 Created new window in existing browser session.
+Nov 08, 2017 10:45:48.09 [7442:7479:1108/104548.097598:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:45:48.13 Created new window in existing browser session.
+Nov 08, 2017 10:46:26.34 [7579:7615:1108/104626.348770:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:46:26.40 Created new window in existing browser session.
+Nov 08, 2017 10:49:17.61 [7892:7929:1108/104917.610051:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 10:49:17.72 Created new window in existing browser session.
+Nov 08, 2017 11:05:08.22 [8321:8358:1108/110508.228800:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 11:05:08.36 Created new window in existing browser session.
+Nov 08, 2017 11:28:37.01 [9232:9269:1108/112837.019388:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 11:28:37.14 Created new window in existing browser session.
+Nov 08, 2017 14:49:08.70 [12156:12193:1108/144908.622557:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 14:49:08.83 Created new window in existing browser session.
+Nov 08, 2017 15:04:46.11 [12629:12666:1108/150446.110112:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 15:04:46.22 Created new window in existing browser session.
+Nov 08, 2017 15:12:03.59 [12882:12919:1108/151203.590655:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 15:12:03.72 Created new window in existing browser session.
+Nov 08, 2017 15:20:43.94 Created new window in existing browser session.
+Nov 08, 2017 15:28:03.76 [13380:13420:1108/152803.765029:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 15:28:03.85 Created new window in existing browser session.
+Nov 08, 2017 16:33:32.43 [14804:14841:1108/163332.437822:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 16:33:32.57 Created new window in existing browser session.
+Nov 08, 2017 16:39:19.86 [15008:15045:1108/163919.865492:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 16:39:20.00 Created new window in existing browser session.
+Nov 08, 2017 16:43:34.79 [15232:15269:1108/164334.797005:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 16:43:34.89 Created new window in existing browser session.
+Nov 08, 2017 16:48:00.57 [15497:15534:1108/164800.577449:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 16:48:00.75 Created new window in existing browser session.
+Nov 08, 2017 17:37:08.58 [16197:16234:1108/173708.589540:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 17:37:08.71 Created new window in existing browser session.
+Nov 08, 2017 17:39:34.68 [16395:16431:1108/173934.681043:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 08, 2017 17:39:34.77 Created new window in existing browser session.
+
+Nov 09, 2017 12:46:39.28 NEW SESSION
+Nov 09, 2017 12:46:39.28 [5343:5380:1109/124639.284761:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 09, 2017 12:46:39.53 Created new window in existing browser session.
+Nov 09, 2017 15:18:38.53 [10596:10633:1109/151838.536789:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 09, 2017 15:18:38.94 Created new window in existing browser session.
+Nov 09, 2017 16:13:21.76 [11831:11868:1109/161321.760508:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 09, 2017 16:13:22.18 Created new window in existing browser session.
+Nov 09, 2017 20:34:33.35 [15128:15166:1109/203433.353486:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 09, 2017 20:34:33.74 Created new window in existing browser session.
+
+Nov 10, 2017 09:26:50.85 NEW SESSION
+Nov 10, 2017 09:26:50.85 [2878:2878:1110/092650.851463:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+Nov 10, 2017 10:43:48.44 [2878:2915:1110/104348.448254:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+Nov 10, 2017 10:43:50.05 [1:21:1110/104350.058435:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+
+Nov 10, 2017 11:03:32.68 NEW SESSION
+Nov 10, 2017 11:03:32.68 [2806:2806:1110/110332.682214:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+Nov 10, 2017 11:21:02.26 [3790:3827:1110/112102.268024:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 10, 2017 11:21:02.42 Created new window in existing browser session.
+Nov 10, 2017 11:36:54.97 [4205:4241:1110/113654.979521:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 10, 2017 11:36:55.10 Created new window in existing browser session.
+Nov 10, 2017 11:59:06.72 [4755:4791:1110/115906.720588:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 10, 2017 11:59:06.80 Created new window in existing browser session.
+Nov 10, 2017 12:09:54.35 [5267:5303:1110/120954.357521:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 10, 2017 12:09:54.45 Created new window in existing browser session.
+
+Nov 10, 2017 12:16:32.77 NEW SESSION
+Nov 10, 2017 12:16:32.77 [5640:5677:1110/121632.771255:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 10, 2017 12:16:32.91 Created new window in existing browser session.
+Nov 10, 2017 17:50:24.29 [8435:8472:1110/175024.297156:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 10, 2017 17:50:24.39 Created new window in existing browser session.
+
+Nov 11, 2017 11:30:39.18 NEW SESSION
+Nov 11, 2017 11:30:39.18 [5445:5482:1111/113039.184730:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:30:39.36 Created new window in existing browser session.
+Nov 11, 2017 11:36:14.59 [5625:5662:1111/113614.598198:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:36:14.72 Created new window in existing browser session.
+Nov 11, 2017 11:42:40.71 [5805:5842:1111/114240.713708:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:42:40.82 Created new window in existing browser session.
+Nov 11, 2017 11:44:26.53 [5987:6024:1111/114426.534321:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:44:26.64 Created new window in existing browser session.
+Nov 11, 2017 11:46:44.25 [6215:6252:1111/114644.253624:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:46:44.36 Created new window in existing browser session.
+Nov 11, 2017 11:47:30.03 [6327:6363:1111/114730.038994:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:47:30.15 Created new window in existing browser session.
+Nov 11, 2017 11:49:04.49 [6492:6529:1111/114904.492067:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:49:04.60 Created new window in existing browser session.
+Nov 11, 2017 11:50:33.32 [6647:6684:1111/115033.326498:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:50:33.77 Created new window in existing browser session.
+Nov 11, 2017 11:53:50.86 [6905:6942:1111/115350.864278:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:53:50.96 Created new window in existing browser session.
+Nov 11, 2017 11:55:46.61 [7044:7081:1111/115546.616081:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:55:46.74 Created new window in existing browser session.
+Nov 11, 2017 11:59:14.73 [7204:7241:1111/115914.730776:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 11:59:14.82 Created new window in existing browser session.
+Nov 11, 2017 12:05:14.16 [7375:7412:1111/120514.164763:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 12:05:14.28 Created new window in existing browser session.
+Nov 11, 2017 12:07:57.10 [7565:7602:1111/120757.102725:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 12:07:57.17 Created new window in existing browser session.
+Nov 11, 2017 12:10:34.46 [7714:7751:1111/121034.466974:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 12:10:34.55 Created new window in existing browser session.
+Nov 11, 2017 12:11:37.28 [7826:7863:1111/121137.283618:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 12:11:37.36 Created new window in existing browser session.
+Nov 11, 2017 17:43:28.58 [11295:11332:1111/174328.589499:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 11, 2017 17:43:28.70 Created new window in existing browser session.
+
+Nov 13, 2017 11:40:10.48 NEW SESSION
+Nov 13, 2017 11:40:10.48 [4200:4237:1113/114010.479166:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 13, 2017 11:40:10.68 Created new window in existing browser session.
+Nov 13, 2017 11:43:58.05 [4420:4457:1113/114358.057516:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 13, 2017 11:43:58.15 Created new window in existing browser session.
+Nov 13, 2017 11:45:28.16 [4586:4623:1113/114528.162375:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 13, 2017 11:45:28.26 Created new window in existing browser session.
+
+Nov 14, 2017 10:14:21.35 NEW SESSION
+Nov 14, 2017 10:14:21.35 [5569:5606:1114/101421.354747:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 10:14:21.56 Created new window in existing browser session.
+Nov 14, 2017 11:24:27.71 [7263:7300:1114/112427.715720:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 11:24:27.85 Created new window in existing browser session.
+
+Nov 14, 2017 12:51:43.54 NEW SESSION
+Nov 14, 2017 12:51:43.54 [5061:5098:1114/125143.548287:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 12:51:43.82 Created new window in existing browser session.
+Nov 14, 2017 16:43:40.41 [8661:8698:1114/164340.411458:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 16:43:40.47 Created new window in existing browser session.
+Nov 14, 2017 16:56:09.42 [9042:9079:1114/165609.424318:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 16:56:09.48 Created new window in existing browser session.
+Nov 14, 2017 17:10:11.59 [9473:9510:1114/171011.593989:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 17:10:11.64 Created new window in existing browser session.
+Nov 14, 2017 17:10:38.84 [9592:9628:1114/171038.842763:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 17:10:38.90 Created new window in existing browser session.
+Nov 14, 2017 18:05:59.32 [10881:10918:1114/180559.327245:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 18:05:59.39 Created new window in existing browser session.
+Nov 14, 2017 18:08:25.96 [11127:11164:1114/180825.961175:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 18:08:26.02 Created new window in existing browser session.
+Nov 14, 2017 19:21:16.52 [13466:13503:1114/192116.527695:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 19:21:16.58 Created new window in existing browser session.
+Nov 14, 2017 19:32:57.21 [13910:13947:1114/193257.211975:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 19:32:57.26 Created new window in existing browser session.
+Nov 14, 2017 20:08:46.70 [14880:14917:1114/200846.700245:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 20:08:47.11 Created new window in existing browser session.
+
+Nov 14, 2017 20:45:55.85 NEW SESSION
+Nov 14, 2017 20:45:55.85 [16683:16720:1114/204555.855037:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 14, 2017 20:45:56.03 Created new window in existing browser session.
+
+Nov 16, 2017 11:16:16.07 NEW SESSION
+Nov 16, 2017 11:16:16.07 [6064:6101:1116/111616.065910:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 16, 2017 11:16:16.25 Created new window in existing browser session.
+Nov 16, 2017 15:11:55.00 [10083:10120:1116/151155.002226:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 16, 2017 15:11:55.07 Created new window in existing browser session.
+Nov 16, 2017 15:16:35.75 [10347:10384:1116/151635.754064:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 16, 2017 15:16:35.82 Created new window in existing browser session.
+Nov 16, 2017 15:19:35.70 [10571:10608:1116/151935.703919:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 16, 2017 15:19:35.76 Created new window in existing browser session.
+Nov 16, 2017 15:21:32.91 [10764:10801:1116/152132.914609:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 16, 2017 15:21:32.97 Created new window in existing browser session.
+Nov 16, 2017 15:37:17.48 [11194:11231:1116/153717.485424:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 16, 2017 15:37:17.56 Created new window in existing browser session.
+
+Nov 17, 2017 17:42:40.77 NEW SESSION
+Nov 17, 2017 17:42:40.77 [12163:12200:1117/174240.770981:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 17, 2017 17:42:40.95 Created new window in existing browser session.
+Nov 17, 2017 18:38:18.78 [13081:13118:1117/183818.781574:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 17, 2017 18:38:18.85 Created new window in existing browser session.
+
+Nov 18, 2017 09:58:34.14 NEW SESSION
+Nov 18, 2017 09:58:34.14 [3916:3953:1118/095834.142706:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 09:58:34.32 Created new window in existing browser session.
+Nov 18, 2017 10:01:38.50 [4205:4242:1118/100138.501298:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 10:01:38.64 Created new window in existing browser session.
+Nov 18, 2017 10:08:45.66 [5009:5047:1118/100845.665426:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 10:08:45.80 Created new window in existing browser session.
+Nov 18, 2017 10:11:20.77 [5219:5256:1118/101120.772026:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 10:11:20.88 Created new window in existing browser session.
+Nov 18, 2017 10:15:19.76 [5434:5471:1118/101519.757575:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 10:15:19.86 Created new window in existing browser session.
+Nov 18, 2017 10:17:21.24 [5613:5650:1118/101721.248355:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 10:17:21.35 Created new window in existing browser session.
+Nov 18, 2017 10:45:56.25 [7037:7074:1118/104556.253477:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 10:45:56.39 Created new window in existing browser session.
+
+Nov 18, 2017 11:22:13.00 NEW SESSION
+Nov 18, 2017 11:22:13.00 [4273:4310:1118/112212.996952:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 11:22:13.16 Created new window in existing browser session.
+Nov 18, 2017 11:41:00.77 [3834:3873:1118/114100.771084:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -100
+Nov 18, 2017 12:15:46.22 [5647:5684:1118/121546.225373:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 12:15:46.32 Created new window in existing browser session.
+Nov 18, 2017 12:16:15.61 [3834:3834:1118/121615.615742:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+Nov 18, 2017 12:21:22.32 [6138:6175:1118/122122.321355:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 12:21:22.40 Created new window in existing browser session.
+Nov 18, 2017 12:39:48.75 [6793:6830:1118/123948.753257:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 12:39:48.82 Created new window in existing browser session.
+Nov 18, 2017 12:56:14.89 [7972:8008:1118/125614.894995:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 12:56:15.02 Created new window in existing browser session.
+Nov 18, 2017 13:15:10.21 [8790:8827:1118/131510.213770:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 13:15:10.32 Created new window in existing browser session.
+Nov 18, 2017 13:19:42.03 [9136:9173:1118/131942.034496:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 13:19:42.15 Created new window in existing browser session.
+Nov 18, 2017 17:00:29.11 couldn't lock 16384 bytes of memory (secret_session): Cannot allocate memory
+Nov 18, 2017 17:13:13.36 [14653:14690:1118/171313.367097:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 18, 2017 17:13:13.49 Created new window in existing browser session.
+
+Nov 20, 2017 09:24:52.84 NEW SESSION
+Nov 20, 2017 09:24:52.84 [4228:4265:1120/092452.838543:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 09:24:53.08 Created new window in existing browser session.
+Nov 20, 2017 12:21:46.58 [9528:9565:1120/122146.581109:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 12:21:46.69 Created new window in existing browser session.
+Nov 20, 2017 12:31:21.15 [9996:10034:1120/123121.156705:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 12:31:21.29 Created new window in existing browser session.
+Nov 20, 2017 16:32:30.80 [15439:15476:1120/163230.803550:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 16:32:30.91 Created new window in existing browser session.
+Nov 20, 2017 16:46:25.65 Created new window in existing browser session.
+Nov 20, 2017 18:31:37.71 [18364:18401:1120/183137.715478:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 18:31:37.85 Created new window in existing browser session.
+Nov 20, 2017 18:40:01.36 [18678:18715:1120/184001.364482:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 18:40:01.49 Created new window in existing browser session.
+Nov 20, 2017 19:00:44.15 [19260:19297:1120/190044.157687:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 19:00:44.33 Created new window in existing browser session.
+Nov 20, 2017 19:36:50.60 [20734:20771:1120/193650.607474:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 19:36:50.70 Created new window in existing browser session.
+Nov 20, 2017 19:48:23.32 [21300:21337:1120/194823.322721:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 19:48:23.42 Created new window in existing browser session.
+Nov 20, 2017 20:15:14.33 [22009:22046:1120/201514.331236:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 20, 2017 20:15:14.44 Created new window in existing browser session.
+
+Nov 21, 2017 09:24:40.79 NEW SESSION
+Nov 21, 2017 09:24:40.79 [4846:4883:1121/092440.797443:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 09:24:40.94 Created new window in existing browser session.
+Nov 21, 2017 10:25:44.35 [6349:6386:1121/102544.352278:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 10:25:44.40 Created new window in existing browser session.
+Nov 21, 2017 10:28:20.43 [6560:6597:1121/102820.436039:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 10:28:20.48 Created new window in existing browser session.
+Nov 21, 2017 10:35:04.00 [6892:6929:1121/103504.009197:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 10:35:04.06 Created new window in existing browser session.
+Nov 21, 2017 10:53:16.94 [7575:7612:1121/105316.945123:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 10:53:17.00 Created new window in existing browser session.
+Nov 21, 2017 10:53:30.98 [7687:7723:1121/105330.983808:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 10:53:31.06 Created new window in existing browser session.
+Nov 21, 2017 10:54:59.96 [7846:7883:1121/105459.964818:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 10:55:00.00 Created new window in existing browser session.
+Nov 21, 2017 13:08:26.41 [11361:11398:1121/130826.418796:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 13:08:26.43 Created new window in existing browser session.
+Nov 21, 2017 15:59:30.06 [15024:15061:1121/155930.060284:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 15:59:30.11 Created new window in existing browser session.
+Nov 21, 2017 19:37:37.85 [20518:20555:1121/193737.857387:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 21, 2017 19:37:37.91 Created new window in existing browser session.
+
+Nov 22, 2017 09:14:29.50 NEW SESSION
+Nov 22, 2017 09:14:29.50 [1:19:1122/091429.503449:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+Nov 22, 2017 09:14:36.43 [4197:4236:1122/091436.438526:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 09:15:14.83 [4242:4242:1122/091514.831963:ERROR:gles2_cmd_decoder.cc(5310)] Error: 3 for Command kBlitFramebufferCHROMIUM
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.087777:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.087855:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.087920:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.087938:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.087993:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088009:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088085:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088102:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088129:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088146:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088168:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088184:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088207:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088222:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088244:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088259:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088280:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x2ced1d960e00]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.088296:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.099297:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.099407:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.099546:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.099649:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.09 [4242:4242:1122/091520.099676:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.10 [4242:4242:1122/091520.099702:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.10 [4242:4242:1122/091520.099763:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.10 [4242:4242:1122/091520.099824:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 09:15:20.10 [4242:4242:1122/091520.099849:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x2ced1d960e00]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 22, 2017 12:22:09.58 [9681:9718:1122/122209.588940:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 12:22:09.63 Created new window in existing browser session.
+Nov 22, 2017 13:07:45.00 [10889:10926:1122/130745.000896:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 13:07:45.03 Created new window in existing browser session.
+Nov 22, 2017 13:08:40.45 [4197:4197:1122/130840.455941:ERROR:display_info_provider_aura.cc(31)] Not implemented reached in virtual void extensions::DisplayInfoProviderAura::UpdateDisplayUnitInfoForPlatform(const display::Display &, extensions::api::system_display::DisplayUnitInfo *)
+Nov 22, 2017 13:19:37.76 [11511:11550:1122/131937.766349:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 13:19:37.80 Created new window in existing browser session.
+Nov 22, 2017 15:15:54.01 [13563:13600:1122/151554.014917:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 15:15:54.05 Created new window in existing browser session.
+Nov 22, 2017 15:27:50.99 [4197:4236:1122/152750.994067:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 15:27:51.29 [4197:4236:1122/152751.298049:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 15:27:51.29 [4197:4236:1122/152751.298182:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 15:45:14.90 [4197:4236:1122/154514.904425:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 15:45:14.90 [4197:4236:1122/154514.904579:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 15:51:58.00 [14697:14734:1122/155158.001141:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 15:51:58.03 Created new window in existing browser session.
+Nov 22, 2017 16:22:14.32 [15707:15744:1122/162214.324259:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 16:22:14.36 Created new window in existing browser session.
+Nov 22, 2017 16:55:30.66 [16624:16661:1122/165530.665037:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 16:55:30.69 Created new window in existing browser session.
+Nov 22, 2017 17:28:41.10 [4197:4236:1122/172841.105851:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 18:12:00.68 [4197:4236:1122/181200.682572:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 18:12:00.68 [4197:4236:1122/181200.682724:ERROR:ssl_client_socket_impl.cc(1072)] handshake failed; returned -1, SSL error code 1, net_error -101
+Nov 22, 2017 18:19:50.05 [4197:4197:1122/181950.051892:ERROR:navigation_entry_screenshot_manager.cc(134)] Invalid entry with unique id: 375
+Nov 22, 2017 18:20:09.03 [4197:4197:1122/182009.034525:ERROR:navigation_entry_screenshot_manager.cc(134)] Invalid entry with unique id: 378
+Nov 22, 2017 18:20:50.03 [4197:4197:1122/182050.030908:ERROR:navigation_entry_screenshot_manager.cc(134)] Invalid entry with unique id: 380
+Nov 22, 2017 18:24:32.15 [4197:4197:1122/182432.154217:ERROR:navigation_entry_screenshot_manager.cc(134)] Invalid entry with unique id: 382
+Nov 22, 2017 20:02:46.41 [20831:20868:1122/200246.413320:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 22, 2017 20:02:46.52 Created new window in existing browser session.
+
+Nov 23, 2017 09:15:04.38 NEW SESSION
+Nov 23, 2017 09:15:04.38 Created new window in existing browser session.
+Nov 23, 2017 11:06:19.65 [7078:7115:1123/110619.659249:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 23, 2017 11:06:19.71 Created new window in existing browser session.
+Nov 23, 2017 11:16:45.70 [7812:7849:1123/111645.708733:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 23, 2017 11:16:45.75 Created new window in existing browser session.
+Nov 23, 2017 15:26:44.39 [14671:14708:1123/152644.399712:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 23, 2017 15:26:44.46 Created new window in existing browser session.
+Nov 23, 2017 16:27:04.75 [16051:16088:1123/162704.759181:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 23, 2017 16:27:04.83 Created new window in existing browser session.
+
+Nov 24, 2017 09:19:25.64 NEW SESSION
+Nov 24, 2017 09:19:25.64 [3891:3891:1124/091925.639563:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x29c4c328c600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639641:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x29c4c328c600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639686:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x29c4c328c600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639709:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x29c4c328c600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639737:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x29c4c328c600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639757:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x29c4c328c600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639787:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x29c4c328c600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639807:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x29c4c328c600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639834:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x29c4c328c600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639854:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x29c4c328c600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639880:ERROR:gles2_cmd_decoder.cc(17721)] [.DisplayCompositor-0x29c4c328c600]GL ERROR :GL_INVALID_OPERATION : glCreateAndConsumeTextureCHROMIUM: invalid mailbox name
+Nov 24, 2017 09:19:25.69 [3891:3891:1124/091925.639900:ERROR:gles2_cmd_decoder.cc(9728)] [.DisplayCompositor-0x29c4c328c600]RENDER WARNING: texture bound to texture unit 0 is not renderable. It maybe non-power-of-2 and have incompatible texture filtering.
+Nov 24, 2017 09:23:14.13 [3891:3891:1124/092314.134807:ERROR:gles2_cmd_decoder.cc(5310)] Error: 3 for Command kBlitFramebufferCHROMIUM
+Nov 24, 2017 09:44:43.28 [1:18:1124/094443.287347:ERROR:adm_helpers.cc(62)] Failed to query stereo recording.
+Nov 24, 2017 09:48:02.87 [5548:5585:1124/094802.878576:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 09:48:02.94 Created new window in existing browser session.
+Nov 24, 2017 09:48:49.90 [5669:5705:1124/094849.904442:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 09:48:49.96 Created new window in existing browser session.
+Nov 24, 2017 09:53:43.53 [6164:6200:1124/095343.533360:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 09:53:43.58 Created new window in existing browser session.
+
+Nov 24, 2017 10:12:28.92 NEW SESSION
+Nov 24, 2017 10:12:28.92 Created new window in existing browser session.
+Nov 24, 2017 10:30:23.93 [8646:8682:1124/103023.935684:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 10:30:24.04 Created new window in existing browser session.
+Nov 24, 2017 10:31:27.17 [8775:8812:1124/103127.177412:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 10:31:27.23 Created new window in existing browser session.
+Nov 24, 2017 10:32:11.40 [8918:8954:1124/103211.408058:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 10:32:11.46 Created new window in existing browser session.
+Nov 24, 2017 12:39:53.84 [13718:13755:1124/123953.841627:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 24, 2017 12:39:53.88 Created new window in existing browser session.
+
+Nov 25, 2017 09:50:40.04 NEW SESSION
+Nov 25, 2017 09:50:40.04 [4187:4224:1125/095040.039507:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 25, 2017 09:50:40.12 Created new window in existing browser session.
+Nov 25, 2017 11:17:20.49 [7225:7262:1125/111720.494856:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 25, 2017 11:17:20.55 Created new window in existing browser session.
+Nov 25, 2017 13:20:12.63 [10574:10611:1125/132012.634282:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 25, 2017 13:20:12.68 Created new window in existing browser session.
+Nov 25, 2017 13:29:40.43 [11137:11173:1125/132940.434227:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 25, 2017 13:29:40.48 Created new window in existing browser session.
+Nov 25, 2017 14:55:45.30 [12867:12904:1125/145545.307624:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 25, 2017 14:55:45.35 Created new window in existing browser session.
+
+Nov 27, 2017 09:48:53.42 NEW SESSION
+Nov 27, 2017 09:48:53.42 [5524:5561:1127/094853.425087:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 27, 2017 09:48:53.49 Created new window in existing browser session.
+Nov 27, 2017 10:13:33.40 [6273:6310:1127/101333.400628:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 27, 2017 10:13:33.44 Created new window in existing browser session.
+Nov 27, 2017 10:25:21.63 [6706:6743:1127/102521.637468:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 27, 2017 10:25:21.67 Created new window in existing browser session.
+Nov 27, 2017 10:27:46.35 [6912:6949:1127/102746.353481:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 27, 2017 10:27:46.40 Created new window in existing browser session.
+
+Nov 28, 2017 09:40:59.75 NEW SESSION
+Nov 28, 2017 09:40:59.75 [3976:4013:1128/094059.751675:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 09:40:59.84 Created new window in existing browser session.
+Nov 28, 2017 17:45:58.86 [16426:16463:1128/174558.868239:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 17:45:58.90 Created new window in existing browser session.
+Nov 28, 2017 17:51:07.54 [16674:16711:1128/175107.541256:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 17:51:07.59 Created new window in existing browser session.
+Nov 28, 2017 18:12:09.44 [17372:17409:1128/181209.444614:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 18:12:09.47 Created new window in existing browser session.
+Nov 28, 2017 18:16:03.92 [17618:17655:1128/181603.924332:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 18:16:03.96 Created new window in existing browser session.
+
+Nov 28, 2017 18:25:34.04 NEW SESSION
+Nov 28, 2017 18:25:34.04 [18295:18332:1128/182534.045015:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 18:25:34.10 Created new window in existing browser session.
+Nov 28, 2017 18:44:27.73 [18922:18959:1128/184427.735909:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 18:44:27.79 Created new window in existing browser session.
+Nov 28, 2017 18:48:11.39 [19183:19220:1128/184811.390095:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 18:48:11.43 Created new window in existing browser session.
+Nov 28, 2017 19:03:53.04 [19741:19778:1128/190353.046980:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:03:53.09 Created new window in existing browser session.
+Nov 28, 2017 19:05:14.84 [19946:19983:1128/190514.842154:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:05:14.90 Created new window in existing browser session.
+Nov 28, 2017 19:13:36.55 [20386:20423:1128/191336.555541:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:13:36.59 Created new window in existing browser session.
+Nov 28, 2017 19:17:23.53 [20847:20884:1128/191723.537497:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:17:23.58 Created new window in existing browser session.
+Nov 28, 2017 19:19:16.09 [21122:21159:1128/191916.089860:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:19:16.12 Created new window in existing browser session.
+Nov 28, 2017 19:39:26.59 [22613:22651:1128/193926.599326:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:39:26.63 Created new window in existing browser session.
+Nov 28, 2017 19:48:25.76 [23061:23098:1128/194825.761906:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:48:25.77 Created new window in existing browser session.
+Nov 28, 2017 19:51:28.77 [23318:23355:1128/195128.772979:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:51:28.80 Created new window in existing browser session.
+Nov 28, 2017 19:52:33.51 [23503:23540:1128/195233.516708:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:52:33.55 Created new window in existing browser session.
+Nov 28, 2017 19:53:48.64 [23679:23716:1128/195348.643419:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 19:53:48.69 Created new window in existing browser session.
+Nov 28, 2017 21:14:57.73 [25776:25813:1128/211457.732955:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 28, 2017 21:14:57.73 Created new window in existing browser session.
+
+Nov 29, 2017 09:51:28.62 NEW SESSION
+Nov 29, 2017 09:51:28.62 [4187:4224:1129/095128.622309:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 09:51:28.75 Created new window in existing browser session.
+Nov 29, 2017 11:35:37.98 [7828:7865:1129/113537.983782:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 11:35:38.44 Created new window in existing browser session.
+Nov 29, 2017 11:38:43.67 [8042:8079:1129/113843.667958:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 11:38:43.70 Created new window in existing browser session.
+Nov 29, 2017 12:03:48.92 [8895:8932:1129/120348.925140:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 12:03:48.95 Created new window in existing browser session.
+Nov 29, 2017 12:20:06.84 [9458:9495:1129/122006.843786:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 12:20:06.85 Created new window in existing browser session.
+Nov 29, 2017 17:16:18.12 [17066:17103:1129/171618.125221:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 17:16:18.24 Created new window in existing browser session.
+Nov 29, 2017 20:23:35.58 [21466:21503:1129/202335.589461:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 20:23:35.66 Created new window in existing browser session.
+Nov 29, 2017 20:28:09.00 [21822:21859:1129/202809.002881:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 20:28:09.07 Created new window in existing browser session.
+Nov 29, 2017 20:33:30.88 [22120:22157:1129/203330.881710:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 20:33:30.91 Created new window in existing browser session.
+Nov 29, 2017 20:34:58.65 [22307:22344:1129/203458.656365:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 29, 2017 20:34:58.69 Created new window in existing browser session.
+
+Nov 30, 2017 09:43:08.10 NEW SESSION
+Nov 30, 2017 09:43:08.10 [4112:4149:1130/094308.104474:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 09:43:08.24 Created new window in existing browser session.
+Nov 30, 2017 10:05:07.24 [4875:4912:1130/100507.241978:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 10:05:07.29 Created new window in existing browser session.
+Nov 30, 2017 10:10:11.73 [5210:5249:1130/101011.734141:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 10:10:11.77 Created new window in existing browser session.
+Nov 30, 2017 10:12:07.83 [5446:5483:1130/101207.834048:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 10:12:07.85 Created new window in existing browser session.
+Nov 30, 2017 11:31:51.60 [8572:8609:1130/113151.602517:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 11:31:51.63 Created new window in existing browser session.
+Nov 30, 2017 18:28:01.35 [19853:19890:1130/182801.319641:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 18:28:01.37 Created new window in existing browser session.
+Nov 30, 2017 18:32:07.12 [20094:20131:1130/183207.120693:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 18:32:07.16 Created new window in existing browser session.
+Nov 30, 2017 18:51:11.58 [20907:20943:1130/185111.583230:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 18:51:11.63 Created new window in existing browser session.
+Nov 30, 2017 18:59:42.81 [21313:21350:1130/185942.811763:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 18:59:42.84 Created new window in existing browser session.
+Nov 30, 2017 19:10:32.57 [21892:21929:1130/191032.573203:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Nov 30, 2017 19:10:32.59 Created new window in existing browser session.
+
+Dec 01, 2017 09:32:34.07 NEW SESSION
+Dec 01, 2017 09:32:34.07 Created new window in existing browser session.
+Dec 01, 2017 17:01:49.74 [14400:14439:1201/170149.742100:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 01, 2017 17:01:49.77 Created new window in existing browser session.
+Dec 01, 2017 17:47:00.65 [15886:15925:1201/174700.655266:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 01, 2017 17:47:00.70 Created new window in existing browser session.
+
+Dec 02, 2017 10:28:52.08 NEW SESSION
+Dec 02, 2017 10:28:52.08 [4151:4188:1202/102852.088150:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 02, 2017 10:28:52.17 Created new window in existing browser session.
+
+Dec 02, 2017 12:29:39.64 NEW SESSION
+Dec 02, 2017 12:29:39.64 [3842:3879:1202/122939.639783:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 02, 2017 12:29:39.70 Created new window in existing browser session.
+Dec 02, 2017 12:44:44.80 [4623:4660:1202/124444.809049:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 02, 2017 12:44:44.86 Created new window in existing browser session.
+Dec 02, 2017 19:46:55.35 [18335:18372:1202/194655.349460:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 02, 2017 19:46:55.47 Created new window in existing browser session.
+
+Dec 04, 2017 09:29:23.01 NEW SESSION
+Dec 04, 2017 09:29:23.01 [4521:4558:1204/092923.017211:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 09:29:23.16 Created new window in existing browser session.
+Dec 04, 2017 11:27:28.67 [8238:8275:1204/112728.677541:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 11:27:28.71 Created new window in existing browser session.
+Dec 04, 2017 11:34:40.45 [8620:8657:1204/113440.456290:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 11:34:40.50 Created new window in existing browser session.
+Dec 04, 2017 12:21:23.01 [10457:10494:1204/122123.016456:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 12:21:23.06 Created new window in existing browser session.
+Dec 04, 2017 12:25:20.34 [10915:10951:1204/122520.341727:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 12:25:20.38 Created new window in existing browser session.
+Dec 04, 2017 18:25:43.16 [20582:20618:1204/182543.166240:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 18:25:43.24 Created new window in existing browser session.
+Dec 04, 2017 18:48:03.64 [21439:21476:1204/184803.648903:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 18:48:03.69 Created new window in existing browser session.
+Dec 04, 2017 18:50:28.23 [21775:21812:1204/185028.230086:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 18:50:28.26 Created new window in existing browser session.
+Dec 04, 2017 18:55:00.11 [22188:22224:1204/185500.119133:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 18:55:00.14 Created new window in existing browser session.
+Dec 04, 2017 18:58:31.22 [22798:22834:1204/185831.226273:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 18:58:31.27 Created new window in existing browser session.
+Dec 04, 2017 19:27:17.58 [23718:23755:1204/192717.582050:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 19:27:17.63 Created new window in existing browser session.
+Dec 04, 2017 21:03:49.27 [26669:26708:1204/210349.274652:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 04, 2017 21:03:49.31 Created new window in existing browser session.
+
+Dec 05, 2017 10:12:29.39 NEW SESSION
+Dec 05, 2017 10:12:29.39 [3826:3863:1205/101229.390893:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 05, 2017 10:12:29.49 Created new window in existing browser session.
+
+Dec 06, 2017 10:03:49.99 NEW SESSION
+Dec 06, 2017 10:03:49.99 [4879:4916:1206/100349.995029:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 06, 2017 10:03:50.13 Created new window in existing browser session.
+
+Dec 07, 2017 09:36:25.41 NEW SESSION
+Dec 07, 2017 09:36:25.41 [4929:4966:1207/093625.404765:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 07, 2017 09:36:25.50 Created new window in existing browser session.
+
+Dec 08, 2017 09:38:26.78 NEW SESSION
+Dec 08, 2017 09:38:26.78 [4466:4503:1208/093826.782454:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 08, 2017 09:38:26.90 Created new window in existing browser session.
+
+Dec 09, 2017 10:22:51.01 NEW SESSION
+Dec 09, 2017 10:22:51.01 [4276:4313:1209/102251.010336:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 09, 2017 10:22:51.09 Created new window in existing browser session.
+
+Dec 11, 2017 09:56:40.48 NEW SESSION
+Dec 11, 2017 09:56:40.48 [5240:5277:1211/095640.479413:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 11, 2017 09:56:40.58 Created new window in existing browser session.
+
+Dec 12, 2017 09:35:35.54 NEW SESSION
+Dec 12, 2017 09:35:35.54 [4329:4366:1212/093535.542603:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 12, 2017 09:35:35.70 Created new window in existing browser session.
+
+Dec 13, 2017 10:27:02.02 NEW SESSION
+Dec 13, 2017 10:27:02.02 [4101:4138:1213/102702.022666:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 13, 2017 10:27:02.16 Created new window in existing browser session.
+
+Dec 14, 2017 10:10:36.10 NEW SESSION
+Dec 14, 2017 10:10:36.10 Created new window in existing browser session.
+
+Dec 15, 2017 10:09:46.84 NEW SESSION
+Dec 15, 2017 10:09:46.84 [4174:4211:1215/100946.844852:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 15, 2017 10:09:47.00 Created new window in existing browser session.
+Dec 15, 2017 20:03:25.44 [20137:20174:1215/200325.439843:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 15, 2017 20:03:25.49 Created new window in existing browser session.
+Dec 15, 2017 20:06:29.08 [20434:20470:1215/200629.086248:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 15, 2017 20:06:29.14 Created new window in existing browser session.
+Dec 15, 2017 20:10:41.30 [20634:20671:1215/201041.306553:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 15, 2017 20:10:41.34 Created new window in existing browser session.
+
+Dec 16, 2017 09:54:43.62 NEW SESSION
+Dec 16, 2017 09:54:43.62 [4450:4487:1216/095443.626957:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 16, 2017 09:54:43.75 Created new window in existing browser session.
+
+Dec 18, 2017 09:48:58.21 NEW SESSION
+Dec 18, 2017 09:48:58.21 [4189:4226:1218/094858.209403:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 18, 2017 09:48:58.28 Created new window in existing browser session.
+
+Dec 18, 2017 13:08:59.20 NEW SESSION
+Dec 18, 2017 13:08:59.20 [3954:3991:1218/130859.208219:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 18, 2017 13:08:59.31 Created new window in existing browser session.
+
+Dec 19, 2017 15:02:39.17 NEW SESSION
+Dec 19, 2017 15:02:39.17 [3876:3916:1219/150239.166686:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Dec 19, 2017 15:02:39.24 Created new window in existing browser session.
+
+Jan 05, 2018 12:54:12.40 NEW SESSION
+Jan 05, 2018 12:54:12.40 [11149:11186:0105/125412.407616:ERROR:browser_gpu_channel_host_factory.cc(103)] Failed to launch GPU process.
+Jan 05, 2018 12:54:12.48 Created new window in existing browser session.

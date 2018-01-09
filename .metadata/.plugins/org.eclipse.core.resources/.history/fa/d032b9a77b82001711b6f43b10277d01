@@ -1,0 +1,17 @@
+package Sudeep;
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		Scanner sc1=new Scanner(System.in);
+		Scanner sc2=new Scanner(System.in);
+		System.out.println("Press enter to start");
+		sc2.nextLine();
+		long start=System.currentTimeMillis();
+		System.out.println("Press enter to stop");
+		sc2.nextLine();
+		long stop=System.currentTimeMillis();
+		System.out.println(((stop-start)/1000)+" seconds");
+	}
+}

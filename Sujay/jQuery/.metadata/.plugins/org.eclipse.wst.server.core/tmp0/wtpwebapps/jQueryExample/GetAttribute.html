@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <meta charset="utf-8">
+    <title>jQuery - Get Attribute</title>
+     
+    <script type="text/javascript" src="http://code.jquery.com/jquery-1.11.3.js"></script>
+  
+     
+    <script>
+     
+       function getAttr()  {   
+      
+           // Get the href attribute value of the element with id = 'atag'
+           var hrefValue = $('#atag').attr("href");
+            
+      
+           // Set html to element with id='atag'.
+           $('#atag').html(hrefValue);
+       }    
+    </script>
+</head>
+<body>
+   <input type="button" onclick="getAttr();" value="Get Attribute"/>
+   <a href="">Reset</a>
+    
+   <br><br>
+    
+   <a id="atag" href="http://cricbuzz.com" target="_blank">cricket</a>
+     
+</body>
+</html>

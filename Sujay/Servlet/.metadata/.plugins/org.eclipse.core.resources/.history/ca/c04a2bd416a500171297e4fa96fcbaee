@@ -1,0 +1,178 @@
+package com.bridgelabz.dao;
+
+import java.awt.List;
+import java.sql.DriverManager;
+import java.sql.SQLException;
+import java.util.ArrayList;
+
+import org.json.simple.JSONArray;
+import org.json.simple.JSONObject;
+import org.json.simple.parser.JSONParser;
+import org.json.simple.parser.ParseException;
+
+import com.bridgelabz.model.registerDetails;
+import com.bridgelabz.model.studentDetails;
+import com.mysql.jdbc.Connection;
+import com.mysql.jdbc.PreparedStatement;
+import com.mysql.jdbc.ResultSet;
+import com.mysql.jdbc.Statement;
+
+public class StudentDao {
+	
+	Connection con=null;
+	PreparedStatement pstmt=null;
+	
+	String JDBC_driver = "com.mysql.jdbc.Driver";
+	static String DB_url = "jdbc:mysql://localhost:3306/STD";
+
+	String user = "root";
+	String pwd = "root";
+	
+	public void callectStdData(studentDetails std)
+	{
+		
+		try {
+			Class.forName("com.mysql.jdbc.Driver");
+
+			con = (Connection) DriverManager.getConnection(DB_url, user, pwd);
+
+			String add = "insert into stream(sname,mob,branch,email,id)" + "values(?,?,?,?,?)";
+
+			pstmt = (PreparedStatement) con.prepareStatement(add);
+
+			pstmt.setString(1, std.getStutentName());
+			pstmt.setLong(2, std.getMobile());
+			pstmt.setString(3, std.getStream());
+			pstmt.setString(4, std.getEmail());
+			pstmt.setInt(5, std.getId());
+			
+			pstmt.executeUpdate();
+			
+			/*con.close();
+			
+			response.sendRedirect("./Signin.jsp");*/
+
+		} 
+		catch (Exception e) 
+		{
+			System.out.println(e);
+		}
+	}
+	
+	public JSONArray fetchData(String branch,String sname){	
+		/*System.out.println(branch);*/
+		JSONArray listStd=new JSONArray();
+		try
+		{			
+			Class.forName("com.mysql.jdbc.Driver");
+			con = (Connection) DriverManager.getConnection(DB_url, user, pwd);
+			String query1="select uid from Student1 where sname = ? ";
+			pstmt=(PreparedStatement) con.prepareStatement(query1);
+			pstmt.setString(1, sname);
+			ResultSet rs= (ResultSet) pstmt.executeQuery();
+			rs.next();
+			int id=rs.getInt("uid");
+			System.out.println(id);
+			
+			String query="select * from stream where branch=? and id=? ";
+			pstmt=(PreparedStatement) con.prepareStatement(query);
+			pstmt.setString(1, branch);
+			pstmt.setInt(2,id);
+			 rs= (ResultSet) pstmt.executeQuery();
+			while(rs.next()){
+				/*System.out.println("inside while");*/
+				JSONObject obj=new JSONObject();
+				obj.put("name",rs.getString("sname"));
+				obj.put("mob", rs.getLong("mob"));
+				obj.put("branch", rs.getString("branch"));
+				obj.put("email", rs.getString("email"));
+				obj.put("id", rs.getInt("id"));
+				/*System.out.println("obj "+obj);*/
+				listStd.add(obj);		
+			}
+			//System.out.println("new "+listStd);
+			return listStd;
+		}catch(Exception ex){
+			System.out.println(ex);
+		}
+		return listStd;
+		
+	}
+	
+	
+	public void deleteStudent(String sname) 
+	{
+		try{
+			Class.forName("com.mysql.jdbc.Driver");
+			con = (Connection) DriverManager.getConnection(DB_url, user, pwd);
+			pstmt=(PreparedStatement) con.prepareStatement("delete from stream where sname=?");
+			pstmt.setString(1, sname);
+			pstmt.executeUpdate();
+			
+		}
+		catch(Exception e){
+			e.printStackTrace();
+		}
+		
+	}
+	
+	public JSONObject editStudent(String sname)
+	{
+		/*JSONArray jarr=new JSONArray();*/
+		JSONObject jobj=new JSONObject();
+		//System.out.println("edit sql");
+		try
+		{
+			Class.forName("com.mysql.jdbc.Driver");
+			con = (Connection) DriverManager.getConnection(DB_url, user, pwd);
+			String query="select * from stream where sname=?";
+			pstmt=(PreparedStatement) con.prepareStatement(query);
+			pstmt.setString(1, sname);
+			ResultSet rs= (ResultSet) pstmt.executeQuery();
+			while(rs.next()){
+				/*System.out.println("inside while");*/
+				
+				jobj.put("name",rs.getString("sname"));
+				jobj.put("mob", rs.getLong("mob"));
+				jobj.put("branch", rs.getString("branch"));
+				jobj.put("email", rs.getString("email"));
+				jobj.put("id", rs.getInt("id"));
+			
+				/*jarr.add(jobj);*/
+			}
+			/*System.out.println(jarr);*/
+			return jobj;
+		}
+		catch(Exception e)
+		{
+			e.printStackTrace();
+		}
+		return jobj;
+	}
+
+	public void editedData(String sname,long mob,String branch,String email) {
+		
+		System.out.println(sname+" "+mob+" ");
+		
+		try{
+			System.out.println("line1");
+			Class.forName("com.mysql.jdbc.Driver");
+			con = (Connection) DriverManager.getConnection(DB_url, user, pwd);
+			String sql="update stream set mob=?,branch=?,email=?  where sname=?";
+			pstmt=(PreparedStatement) con.prepareStatement(sql);
+			
+			pstmt.setString(1, sname);
+			pstmt.setLong(2, mob);
+			pstmt.setString(3, email);
+			pstmt.setString(4,branch);
+			
+			pstmt.executeUpdate();
+			System.out.println("line2");
+		}catch(Exception e){
+			e.printStackTrace();
+		}
+		
+	}
+	
+
+}

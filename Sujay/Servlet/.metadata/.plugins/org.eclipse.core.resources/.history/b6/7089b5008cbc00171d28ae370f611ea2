@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html>
+<head>
+<meta charset="UTF-8">
+<title>FileUpload</title>
+</head>
+<body>
+	<form action="" >
+		Name : <input type="text" name="name"/>
+		Select file : <input type="file" name="files"/>
+					<input type="submit" value="upload">
+	</form>
+</body>
+</html>

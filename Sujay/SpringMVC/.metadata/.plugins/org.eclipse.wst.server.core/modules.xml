@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<modules>
+  <module moduleId="org.eclipse.jst.jee.server:ToDoApp" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:ToDoApp" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:Validation" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:HelloExample" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:SampleProgram" serverId="Tomcat v8.5 Server at localhost"/>
+  <module moduleId="org.eclipse.jst.j2ee.server:HelloAnnotation" serverId="Tomcat v8.5 Server at localhost"/>
+</modules>

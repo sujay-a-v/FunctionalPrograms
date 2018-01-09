@@ -1,0 +1,29 @@
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Enter N"); 
+		Scanner sc1=new Scanner(System.in);
+		Scanner sc2=new Scanner(System.in);
+		double n=sc1.nextDouble();
+		while(n==0)
+		{
+			System.out.println("Enter integer greater than 0");
+			n=sc1.nextDouble()
+		}
+		/*if((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0)))
+			
+		{
+			System.out.println("leap year");
+		}
+		else System.out.println("not a leap year");*/
+		double sum=0;
+		for(double i=1;i<=n;i++)
+			sum=sum+(1.0/n);
+		System.out.println(sum);
+		
+	}
+
+}

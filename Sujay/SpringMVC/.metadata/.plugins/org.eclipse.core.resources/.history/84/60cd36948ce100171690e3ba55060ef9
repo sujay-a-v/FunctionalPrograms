@@ -1,0 +1,26 @@
+<div id="mainHome" style=" background-color:#e8e8e8;">
+	<!-- ************************************* Start of Top Bar ********************************************** -->
+	<top-nav-bar></top-nav-bar>
+	<!-- ************************************* End of Top Bar  ********************************************** -->
+<div class="row" id="homeId">
+	<div class="col-sm-3" id="sidebarWrapper" ng-show="showSideBar">
+		<!-- ************* Start of Side Bar ***************** -->
+			<div style="margin-left: 100px; "><side-nav-bar></side-nav-bar ></div>
+			<!-- ********************* End of Side Bar *************************** -->
+	</div>
+
+	<div class="col-sm-9" id="mainWrapper">
+		<br> <br>
+			<h4>IN Search page</h4>
+			<div class="{{card}}" id="card" style="width:300px; background-color:{{note.noteColor}}" 
+				ng-show="searchedNotes.length && searchText.length>=1 " ng-repeat="note in notes |  filter :{title:searchText}|| filter :{description:searchText} as searchedNotes">
+				
+				<b><div style="margin: 8px" ng-bind-html="note.title"></div></b>
+				<div style="margin: 7px" ng-bind-html="note.description"></div>
+				<br>
+				
+			</div>
+
+	</div>
+	</div>
+</div>

@@ -1,0 +1,27 @@
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+		System.out.println("Enter n");
+		Scanner sc1=new Scanner(System.in);
+		Scanner sc2=new Scanner(System.in);
+		int n=Integer.parseInt(args[0]);
+		/*while(year>10000 && year<0)
+		{
+			System.out.println("Enter a positive integer");
+			year=sc1.nextInt();
+		}
+		if((year % 400 == 0) || ((year % 4 == 0) && (year % 100 != 0)))
+			
+		{
+			System.out.println("leap year");
+		}
+		else System.out.println("not a leap year");*/
+		for(int i=0;i<n;i++)
+			System.out.println(Math.pow(2,0));
+		
+	}
+
+}

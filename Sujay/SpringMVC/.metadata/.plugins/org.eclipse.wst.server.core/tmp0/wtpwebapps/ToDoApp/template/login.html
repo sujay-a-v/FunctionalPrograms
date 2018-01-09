@@ -1,0 +1,46 @@
+<div class="login">
+<div class="row">
+<div class="col-sm-3"></div>
+		<div class="col-sm-6" id="" style="background-color:  #00ffff; margin-top: 75px; width: 500px; margin-left: 35px;"
+			style="padding: 10px" id="div1">
+			<h1>Sign In.</h1>
+			<hr style="border-width: 2px" color="black">
+				<div class="row">
+					<div class="col-sm-6">
+						<h3>
+							<b>Use other Account</b>
+						</h3>
+						You can also sign in using facebook account and google account<br>
+						<br>
+						<a href="facebookLogin"><button type="button" class="btn btn-primary btn-block" id="fbbutton">login
+							using facebook</button></a>
+						<br>
+						<a href="googleLogin"><button type="button" class="btn btn-block"
+							style="background-color: black; color: white" id="gbutton">login
+							using google</button></a>
+					</div>
+					<div class="col-sm-6 col-lg-6 col-md-9 col-xs-12"
+						style="border-left: 1px solid grey">
+						<h3>
+							<b> Using your Account</b>
+						</h3>
+						<h4 id="err" ng-bind="errorMessage" style="color:red"></h4>
+						<br>
+						<div class="form-group" style="margin-left: 5px">
+							<input type="text" placeholder="Email" ng-model="user.userEmail" class="form-control" required><br> 
+							
+ 							<input type="password" placeholder="Password" ng-model="user.userPassword" class="form-control" required>
+						
+						</div>
+						<div class="form-group" style="margin-left: 5px">
+							<button type="submit" class="btn btn-info btn-block" ng-click="loginUser()">Singin</button><br>
+							<a href="#!/forgetPassword">Forgot your password?</a> 
+							<a href="#!/register">Register </a>
+							<br>
+							<!-- <a href="#!/home">home</a> -->
+						</div>
+					</div>
+				</div>
+		</div>
+	</div>
+</div>

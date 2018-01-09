@@ -1,0 +1,60 @@
+@CHARSET "UTF-8";
+
+  	/* Modal Content */
+	.modal-content {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 70%;
+} 
+
+ #addbtn{
+padding:3px;
+width:20%;
+align:right;
+} 
+
+#cls{
+padding:4px;
+width:20%;
+align:left;
+} 
+#cls1{
+padding:4px;
+width:20%;
+}
+
+#addbtns{
+align:"right";
+width:180%;
+
+}
+#abc{
+	background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 100%; 
+}
+#navbar{
+background: 	 #00061a;
+color: white;
+}
+ #ece{
+		 	top:35px;
+		    align:"center";
+		    background-color: #e699ff;
+		    width: 300px;
+		    height: 250px;
+		    font-size: 15px;
+		    } 
+		    
+		    
+		    .modal-content2 {
+    background-color: #fefefe;
+    margin: auto;
+    padding: 20px;
+    border: 1px solid #888;
+    width: 70%;
+}

@@ -1,0 +1,156 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1">
+  <link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/css/bootstrap.min.css">
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.2.1/jquery.min.js"></script>
+  <script src="https://maxcdn.bootstrapcdn.com/bootstrap/3.3.7/js/bootstrap.min.js"></script>
+<title>Homepage</title>
+
+<link href="homepage.css" rel="stylesheet" type="text/css">
+
+</head>
+
+<body>
+
+<%
+response.setHeader("cache-control","no-cache");
+response.setHeader("cache-control", "no-store");
+response.setHeader("pragma", "na-cache");
+response.setDateHeader("Expires", 0);
+
+String name=(String)session.getAttribute("name");
+if(name==null || name=="")
+{
+	response.sendRedirect("Signin.jsp");
+}
+%>
+
+
+
+	<div class="pageAlign">
+	<div class="nvb">
+		<div class="row" id="nvbr">
+			<div class="col-sm-2"><h><b>COLLEGE </b> </h></div>
+			<div class="col-sm-7"></div>
+			<div class="col-sm-1"><%=session.getAttribute("name")%></div>
+			<div class="col-sm-1"><p><a href="Signin.jsp">Logout</a></p></div>	
+		</div>
+	
+	</div>
+	
+	<div class="headpre" align="center">
+	<h2>COLLEGE APPLICATION</h2>
+	<pre >
+    This site is only for the College authorities who have access.
+    You can add details of the new Students.
+    </pre>
+    </div>
+	
+	
+	<div >
+		
+		<div class="row">
+		
+			<div class="col-sm-1"></div>
+		
+			<div class="col-sm-3 vert" id="ece"   style="background-color:yellow;">
+			  <div class="cont" >
+				<h align="center"><b>ECE</b></h><br><br>
+				<p style="font-style: italic;">You can view the details of Students they are
+				 present in the ECE Deportment<p><br>
+				<button type="button" name="csbtn" class="btn" 
+				onclick="displayData('ece')">View Detailes</button>
+			  </div>
+			</div>
+			<div class="col-sm-1"></div>
+			
+			<div class="col-sm-3" id="ece" style="background-color:pink;">
+				<h align="center"><b>IT</b></h><br><br>
+				<p style="font-style: italic;">You can view the details of Students they are
+				 present in the IT Deportment<p><br>
+				<button type="button" name="csbtn" class="btn"
+				onclick="displayData('it')">View Detailes</button>
+			</div>
+			<div class="col-sm-1"></div>
+			
+			<div class="col-sm-3" id="ece"  style="background-color:yellow;">
+				<h align="center"><b>COMP</b></h><br><br>
+				<p style="font-style: italic;">You can view the details of Students they are
+				 present in the COMP Deportment<p><br>
+				<button type="button" name="csbtn" class="btn" 
+				onclick="displayData('comp')">View Detailes</button>
+			</div>
+		
+		</div>
+	</div>
+	
+	<br><br><br><br><br><br>
+	
+	<div class="adds">
+		<div class="row" >
+			<div class="col-sm-10"></div>
+			<div class="col-sm-1" >
+			<input type="button" name="addbtn" id="addd" value="ADD" 
+			onclick="displayData('comp')"/></div>	
+		</div>
+	</div>
+	
+	</div>
+	
+	
+	
+	
+	<script type="text/javascript">
+		$('document').ready(function() {
+			
+			
+		});
+		
+		var currentBranch="";
+		var currentId=0;
+		var edited=0;
+		
+		function add(){
+			console.log($('#nameId').val());
+			$ajax({
+				url:updateClg;
+				type:'post';
+				data:{
+					name:$('#nameId').val();
+					mobileNumber:$('#mobileNumberId').val();
+					email:$('#email').val();
+					id=currentId;
+				};
+				success:function (){
+					console.log("Added");
+					$('#nameId').val("");
+					$('#mobileNumberId').val("");
+					$('#email').val("");
+					$('#cityId').val(""),
+					$('#add').modal('hide');
+					if(edited==1){
+						displayData(currentCity);
+						edited=0;
+					}
+					currentId="0";
+					
+					
+				}
+			
+				
+			});
+			
+			
+		}
+		
+	</script>
+	
+	
+	
+</body>
+</html>

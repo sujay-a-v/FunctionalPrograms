@@ -1,0 +1,61 @@
+@CHARSET "UTF-8";
+
+input[type=text], input[type=password] {
+	width: 100%;
+	padding: 12px 20px;
+	margin: 8px 0;
+	display: inline-block;
+	border: 1px solid #ccc;
+	box-sizing: border-box;
+}
+
+button {
+	background-color: #4CAF50;
+	color: white;
+	padding: 12px 20px;
+	margin: 8px 0;
+	border: 1px;
+	cursor: pointer;
+	width: 100%;
+}
+
+body{
+background: #b3ffff;
+}
+
+form {
+width:100%
+
+}
+
+p.dotted {
+border-style: dotted;
+width: 100%;
+box-sizing: border-box;
+align:left;
+}
+
+a {
+      text-decoration:none;
+   }
+
+fieldset {
+	height:620px;
+	width:35%;
+	border: none;
+	align:"center";
+	left: 200px;
+	right:200px;
+	background: white;
+	
+}
+
+function validateForm ()
+ {
+ var x =document.forms["reg"]["name"].value;
+ if (x == "") 
+	{ 
+	alert("Name must be filled out");
+	return false;
+	}
+}

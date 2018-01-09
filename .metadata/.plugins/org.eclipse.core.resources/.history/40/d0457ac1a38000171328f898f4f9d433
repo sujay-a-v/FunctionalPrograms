@@ -1,0 +1,25 @@
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+	int stake=0,goal=0,nmbrftms=0,winnings=0;
+	Scanner sc1=new Scanner(System.in);
+	System.out.println("Enter stake");
+	stake=sc1.nextInt();
+	System.out.println("Enter goal");
+	goal=sc1.nextInt();
+	System.out.println("Enter number of times");
+	nmbrftms=sc1.nextInt();
+	int wncnt=0,btcnt=0;
+	while(stake!=0 || winnings!=goal)
+	{
+		if(Math.random()>0.5)
+		{
+			winnings++;
+			
+		}
+	}
+	}
+}

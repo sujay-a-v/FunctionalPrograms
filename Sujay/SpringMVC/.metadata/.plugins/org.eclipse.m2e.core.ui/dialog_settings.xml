@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<section name="Workbench">
+	<section name="MavenProjectWizardArtifactPage">
+		<list key="groupId">
+		</list>
+		<list key="name">
+		</list>
+		<list key="artifactId">
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+	<section name="org.eclipse.m2e.core.pom.dependencies">
+	</section>
+	<section name="org.eclipse.m2e.core.pom.overview">
+		<list key="ciManagementUrl">
+		</list>
+		<list key="ciManagementSystem">
+		</list>
+		<list key="issueManagementSystem">
+		</list>
+		<list key="issueManagementUrl">
+		</list>
+	</section>
+	<section name="MavenProjectWizardArchetypePage">
+		<item value="All Catalogs" key="catalog"/>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="MavenProjectWizardLocationPage">
+		<list key="location">
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/ToDoApp/src/main/java/com/bridgelabz/control/FBLoginController.java"/>
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/BeanValidatoin"/>
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/SampleProgram"/>
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/bfdbdfbd/pom.xml"/>
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/ValidationExample"/>
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/HelloExample"/>
+			<item value="/home/bridgeit/Sujay/Sujay/SpringMVC/HelloExample/pom.xml"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+	</section>
+	<section name="Maven2ProjectWizardArchifactPage">
+		<list key="package">
+			<item value="com.bridgelabz.JMSs"/>
+			<item value="com.bridgelabz.JMS"/>
+			<item value="com.bridgelabz.JavaMessageService"/>
+			<item value="com.bridgelabz.ToDoApp"/>
+			<item value="com.bridgelabz.Validation"/>
+			<item value="com.bridgelabz.BeanValidatoin"/>
+			<item value="com.bridgelabz.test"/>
+			<item value="com.bridgelabz.bfdbdfbd"/>
+			<item value="com.bridgelabz.ValidationExample"/>
+			<item value="com.bridgelabz.SampleProgram"/>
+			<item value="com.bridgelabz.HelloAnnotation"/>
+			<item value="com.bridgelabz.AnnotationExample"/>
+			<item value="com.bridgelabz.HelloExample"/>
+		</list>
+		<list key="groupId">
+			<item value="com.bridgelabz"/>
+		</list>
+		<list key="artifactId">
+			<item value="JMSs"/>
+			<item value="JMS"/>
+			<item value="JavaMessageService"/>
+			<item value="ToDoApp"/>
+			<item value="Validation"/>
+			<item value="BeanValidatoin"/>
+			<item value="test"/>
+			<item value="bfdbdfbd"/>
+			<item value="ValidationExample"/>
+			<item value="SampleProgram"/>
+			<item value="HelloAnnotation"/>
+			<item value="AnnotationExample"/>
+			<item value="HelloExample"/>
+		</list>
+		<list key="projectNameTemplate">
+			<item value="[artifactId]"/>
+			<item value="[artifactId]-TRUNK"/>
+			<item value="[artifactId]-[version]"/>
+			<item value="[groupId].[artifactId]"/>
+			<item value="[groupId].[artifactId]-[version]"/>
+			<item value="[name]"/>
+		</list>
+		<list key="version">
+			<item value="0.0.1-SNAPSHOT"/>
+		</list>
+	</section>
+</section>

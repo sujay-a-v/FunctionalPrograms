@@ -1,0 +1,36 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+</head>
+<body>
+
+	<div class="form-group">
+
+								<label for="bankName">Enter your Bank Name</label><br> <input
+									type="text" name="bankName" id="bankNameId" class="form-control"
+									required="required">
+							</div>
+							<div class="form-group">
+								<label for="accountNumber">Enter your Account Number </label><br>
+
+								<input type="number" name="accountNumber" id="accountNumberId" class="form-control"
+									required="required">
+
+							</div>
+							<div class="form-group">
+								<label for="city">Enter Your City</label><br> 
+								<select class="form-control" name="city" id="cityId">
+									<option value="mumbai">Mumbai</option>
+									<option value="delhi">Delhi</option>
+									<option value="bangalore">Bangalore</option>
+								</select>
+
+							</div>
+						</div>
+
+</body>
+</html>

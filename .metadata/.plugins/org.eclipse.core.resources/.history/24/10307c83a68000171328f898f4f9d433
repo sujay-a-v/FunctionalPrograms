@@ -1,0 +1,37 @@
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		
+	int stake=0,goal=0,times =0,winnings=0;
+	Scanner sc1=new Scanner(System.in);
+	System.out.println("Enter stake");
+	stake=sc1.nextInt();
+	System.out.println("Enter goal");
+	goal=sc1.nextInt();
+	System.out.println("Enter times");
+	times=sc1.nextInt();
+	float wncnt=0,btcnt=0;
+	while(stake!=0 || winnings!=goal || btcnt==times)
+	{
+		if(Math.random()>0.5)
+		{
+			stake++;
+			winnings++;
+			wncnt++;
+		}
+		else
+		{
+			stake--;
+			winnings--;
+		}
+		btcnt++;
+	}
+	float lsscnt=btcnt-wncnt;
+	System.out.println(wncnt);
+	System.out.println((wncnt/btcnt)*100);
+	System.out.println((lsscnt/btcnt)*100);
+	System.out.println((wncnt-lsscnt)/btcnt);
+	}
+}

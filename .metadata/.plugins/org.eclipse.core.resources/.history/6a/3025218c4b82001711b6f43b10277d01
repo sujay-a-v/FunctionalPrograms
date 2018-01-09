@@ -1,0 +1,52 @@
+package Sudeep;
+
+import java.util.Scanner;
+
+public class StrngPrmttn {
+
+
+	public static void main(String[] args) {
+	
+		Scanner sc1=new Scanner(System.in);
+		Scanner sc2=new Scanner(System.in);
+		System.out.println("Enter string");
+		String input=sc2.nextLine();
+		int lngth=input.length();
+		int fctrl=fact(lngth);
+		int j=1;
+		int pos=0;
+		for(int prm_cnt=0;prm_cnt<fctrl;)
+		{
+			String perm=input; 
+			int k=0;
+			while(k!=fctrl/lngth)
+			{
+				while(j!=lngth-1)
+				{
+					System.out.println(perm);
+					perm=swap(perm,j,j+1);
+					k++;
+					prm_cnt++;
+					j++;
+				}
+				j=1;
+			}
+			pos++;
+			if(pos==lngth) break;
+			input=swap(input,0,pos);
+ 		}
+	}
+	public static String swap(String s,int i,int j)
+	{
+		char[] str=s.toCharArray();
+		char temp=str[i];
+		str[i]=str[j];
+		str[j]=temp;
+		return new String(str);
+	}
+	public static int fact(int n)
+	{
+		if(n==1) return 1;
+		else return n*fact(n-1);
+	}
+}

@@ -1,0 +1,25 @@
+@CHARSET "UTF-8";
+
+div#topNavigation{
+	position : fixed;
+	width : 100%;
+	z-index:2;
+    background-color:#ffbb33;
+} 
+
+#search{
+	text-align: left;
+    width: 800%;
+    border:none;
+    border-radius: 8px;
+    background-color: white;
+    height: 35px;
+}
+
+div#topNavigation li{
+     margin-right: 20px;
+     margin-top: 10px;
+}
+div#topNavigation input{
+	length:50px;
+}

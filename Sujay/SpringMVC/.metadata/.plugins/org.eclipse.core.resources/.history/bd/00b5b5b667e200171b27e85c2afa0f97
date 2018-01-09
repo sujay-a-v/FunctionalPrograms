@@ -1,0 +1,41 @@
+@CHARSET "UTF-8";
+
+.SideNavigation{
+	/* background-color:#66686b; */
+	height: 100%;
+	width :20%;
+    position : fixed;
+	z-index:1;
+	transition : 1000.0ms;
+	margin-top: -10px;
+}
+#labelEdit{
+	margin-left: 35px;
+}
+
+.SideNavigation li{
+	 list-style-type:none;
+	 
+     margin-right: 15px;
+     margin-top: 10px;
+     display: block;
+     padding: 10px;
+
+}
+
+.SideNavigation a{
+	color: black;
+    display: block;
+}
+
+@media (max-width: 550px){
+.SideNavigation{
+	background-color: #66686b;
+	width :0;
+	margin-top: -19px;
+	  position : ;
+}
+#labelEdit{
+	margin-left: 14px;
+}
+}

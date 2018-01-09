@@ -1,0 +1,206 @@
+$('document').ready(function() {
+	});
+
+ /*function validateForm() {
+
+var uname=document.forms["student"]["stname"].value;
+var nameformat=/^[A-z]+$/;
+var email=document.forms["student"]["mail"].value;
+var moblile=document.forms["student"]["mob"].value;
+var phoneno = /^((\+)?(\d{2}[-]))?(\d{10}){1}?$/;
+var mailformat = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/; 
+var emailValidation=/^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
+var isValid1=true;
+
+if(!nameformat.test(uname) )
+ {
+	alert("please enter char only");
+	isValid1 =false;
+}
+console.log("inside");
+ if(!emailValidation.test(email))
+{
+		console.log("email fails");
+	alert("wrong Email pattern");
+	isValid1 =false;
+}  
+
+if(!phoneno.test(moblile))
+{
+	alert("enter the valid mobile number");
+	isValid1= false;
+}
+
+if(isvalid1==false) {
+	return false;
+} 
+
+} */
+
+
+	var branch1="";
+	var name="";
+	
+	function displayBranch(branch) {
+		
+		$.ajax({
+			url: 'BranchDetails',
+			type : 'post',
+			dataType : 'JSON',
+			data : {
+				branch:branch
+			},
+			success : function(studentData) {
+				
+				branch1=branch;
+				var data = "<table class='table table-striped'>"+"<thead>"
+						+ "<tr>" + "<th>Name</th>" 
+						+ "<th>Mobile No.</th>"
+						+ "<th>Branch</th>" 
+						+"<th>Email</th>"
+						+ "<th> Updata </th>" 
+						+"<th> Delete </th>"
+						+"</tr>"+"</thead>" 
+						+ "<tbody>";
+				for ( var i in studentData) {
+					data = data + "<tr>" 
+							+ "<td>" + studentData[i].name + "</td>"
+							+ "<td>" + studentData[i].mob+ "</td>" 
+							+ "<td>"+ studentData[i].branch+ "</td>"
+							+ "<td>"+studentData[i].email+"</td>"
+							+"<td><button type='button' class='btn btn-success' "
+							+"onclick=editRow('"+studentData[i].sid+"')>edit</button></td>"
+							+"<td> <button type='button' class='btn btn-danger'"
+							+"onclick=removeRow('"+studentData[i].sid+"')>delete</button></td>"
+							+ "</tr>";
+				}
+				data = data + "</tbody> </table>";
+				$('#branch-title').html(branch);
+				$('#tablecnt').html(data);
+				$('#myModal1').modal('show');
+			}
+			
+		});
+	}
+	
+	
+	function removeRow(sid){
+		$.ajax({
+			url:'DeleteRow',
+			type:'post',
+			data : {
+				sid:sid
+			},
+			success : function() {
+				displayBranch(branch1)
+			}
+		});
+		
+	}
+	
+	function editRow(sid){
+		
+		$.ajax({
+			url : 'EditRow',
+			type : 'post',
+			data : {
+				sid : sid
+			},
+			dataType:'JSON',
+			 success : function(student){
+				 console.log(student);
+				 console.log(student.name);
+				 
+				$('#sidEdit').val(student.sid)
+				$('#nameEdit').val(student.name),
+				$('#mobEdit').val(student.mob),
+				$('#branchEdit').val(student.branch),
+				$('#emailEdit').val(student.email),
+				$('#editModal').modal('show');
+			}
+		});
+	}
+		
+	function afterEdit(){
+	
+		/*var uname=document.forms["student"]["stname"].value;
+		var nameformat=/^[A-z]+$/;
+		var email=document.forms["student"]["mail"].value;
+		var moblile=document.forms["student"]["mob"].value;
+		var phoneno = /^((\+)?(\d{2}[-]))?(\d{10}){1}?$/;
+		var mailformat = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/; 
+		var emailValidation=/^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
+		var isValid=true;
+
+		if(!nameformat.test(uname) )
+		 {
+			alert("please enter char only");
+			isValid =false;
+		}
+		console.log("inside");
+		 if(!emailValidation.test(email))
+		{
+				console.log("email fails");
+			alert("wrong Email pattern");
+			isValid =false;
+		}  
+		
+		if(!phoneno.test(moblile))
+		{
+			alert("enter the valid mobile number");
+			isValid= false;
+		}
+	 if(isvalid==false) {
+		return false;
+	} */
+		
+		var uname=document.getElementById("nameEdit").value;
+		var nameformat=/^[A-z]+$/;
+		var email=document.getElementById("emailEdit").value;
+		var moblile=document.forms["editing"]["mob"].value;
+		var phoneno = /^((\+)?(\d{2}[-]))?(\d{10}){1}?$/;
+		var mailformat = /^\w+([-+.]\w+)*@\w+([-.]\w+)*\.\w+([-.]\w+)*$/; 
+		var emailValidation=/^\w+@[a-zA-Z_]+?\.[a-zA-Z]{2,3}$/;
+		var isValid=true;
+
+		if(!nameformat.test(uname) )
+		 {
+			alert("please enter char only");
+			isValid =false;
+		}
+		console.log("inside");
+		 if(!emailValidation.test(email))
+		{
+				console.log("email fails");
+			alert("wrong Email pattern");
+			isValid =false;
+		}  
+		
+		if(!phoneno.test(moblile))
+		{
+			alert("enter the valid mobile number");
+			isValid= false;
+		}
+	 if(isValid==false) {
+		return false;
+	} 
+		
+		$.ajax({
+			url:'EditedData',
+			type:'post',
+			data : {
+				sid:$('#sidEdit').val(),
+				stname:$('#nameEdit').val(),
+				mob:$('#mobEdit').val(),
+				mail:$('#emailEdit').val(),
+				stream:$('#branchEdit').val(),
+		
+			},
+			success : function() {
+				$('#editModal').modal('hide'),
+				displayBranch(branch1);
+			}
+		});	
+
+	}
+	

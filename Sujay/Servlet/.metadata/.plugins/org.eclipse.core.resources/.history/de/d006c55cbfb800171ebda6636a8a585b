@@ -1,0 +1,11 @@
+validate()
+{
+	var name=document.form["student"]["stname"].value;
+	var nameformat=/^[A-z]+$/;
+	
+	var mobile=document.form["student"]["mob"].value;
+	var phoneno = /^\d{10}$/;
+	
+	var email=document.form["student"]["mail"].value;
+	var mailformat = /[a-zA-Z]+@[a-zA-Z]+\\.com$;
+}

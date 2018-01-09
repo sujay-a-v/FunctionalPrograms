@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<session version="1.0">
+<refactoring comment="Copy element &apos;AccessingDatabase.java&apos; to &apos;Filter/src/com.bridgelabz.program&apos;&#x0A;- Original project: &apos;ServletProgram&apos;&#x0A;- Destination element: &apos;Filter/src/com.bridgelabz.program&apos;&#x0A;- Original element: &apos;com.bridgelabz.programs.AccessingDatabase.java&apos;" description="Copy compilation unit" destination="=Filter/src&lt;com.bridgelabz.program" element1="/src&lt;com.bridgelabz.programs{AccessingDatabase.java" files="0" flags="589830" folders="0" id="org.eclipse.jdt.ui.copy" policy="org.eclipse.jdt.ui.copyResources" stamp="1509279554503" units="1" version="1.0"/>
+</session>

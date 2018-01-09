@@ -1,0 +1,4 @@
+validate()
+{
+	var name=document.form["student"]["stname"].value;
+}

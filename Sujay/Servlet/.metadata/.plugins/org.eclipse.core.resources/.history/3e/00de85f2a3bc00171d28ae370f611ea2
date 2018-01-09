@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<web-app xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns="http://java.sun.com/xml/ns/javaee" xsi:schemaLocation="http://java.sun.com/xml/ns/javaee http://java.sun.com/xml/ns/javaee/web-app_2_5.xsd" id="WebApp_ID" version="2.5">
+  <display-name>Filter</display-name>
+  <welcome-file-list>
+    <welcome-file>index.html</welcome-file>
+    <welcome-file>index.htm</welcome-file>
+    <welcome-file>index.jsp</welcome-file>
+    <welcome-file>default.html</welcome-file>
+    <welcome-file>default.htm</welcome-file>
+    <welcome-file>default.jsp</welcome-file>
+  </welcome-file-list>
+  <filter>
+    <display-name>FilterDemo</display-name>
+    <filter-name>FilterDemo</filter-name>
+    <filter-class>com.bridgelabz.program.FilterDemo</filter-class>
+  </filter>
+  <filter-mapping>
+    <filter-name>FilterDemo</filter-name>
+    <url-pattern>/AccessingDatabase</url-pattern>
+  </filter-mapping>
+  <servlet>
+    <description></description>
+    <display-name>FilterClass</display-name>
+    <servlet-name>FilterClass</servlet-name>
+    <servlet-class>com.bridgelabz.program.FilterClass</servlet-class>
+  </servlet>
+  <servlet-mapping>
+    <servlet-name>FilterClass</servlet-name>
+    <url-pattern>/FilterClass</url-pattern>
+  </servlet-mapping>
+  
+  <servlet>
+  	<servlet-name>AccessingDatabase</servlet-name>
+  	<servlet-class>com.bridgelabz.program.AccessingDatabase</servlet-class>
+  </servlet>
+  <servlet-mapping>
+  	<servlet-name>AccessingDatabase</servlet-name>
+  	<url-pattern>/AccessingDatabase</url-pattern>
+  </servlet-mapping>
+</web-app>

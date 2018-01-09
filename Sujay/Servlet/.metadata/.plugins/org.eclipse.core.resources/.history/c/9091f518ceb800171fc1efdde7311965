@@ -1,0 +1,50 @@
+function validateForm() {
+		var pw1=document.forms["reg"]["password"].value;
+		var pw2=document.forms["reg"]["confirmpassword"].value;
+		var passwordLength=  /^[A-Za-z0-9]\w{6,14}$/;
+		
+		var uname=document.forms["reg"]["name"].value;
+		var nameformat=/^[A-z]+$/;
+		var x=document.forms["reg"]["email"].value;
+		var moblile=document.forms["reg"]["mob"].value;
+		var phoneno = /^\d{10}$/;
+		var mailformat =/[a-zA-Z]+@[a-zA-Z]+\\.com$/; 
+		var isValid=true;
+
+		if(uname=="")
+		{
+		alert("Name can't be empty");
+		isValid= false;
+		}
+		else if(!nameformat.test(uname) )
+		 {
+			alert("please enter char only");
+			isValid= false;
+		}
+		 if(!x.test(mailformat))
+		{
+			alert("wrong Email pattern");
+			isValid= false;
+		} 
+		if(!passwordLength.test(pw1))
+			{
+				alert("password should be 6 to 14 chars");
+				isValid= false;
+			}
+	    
+		if(pw1!=pw2)
+			{
+			alert("password miss match");
+			isValid= false;
+			} 
+		
+		if(!phoneno.match(moblile))
+			{
+				alert("enter the valid mobile number");
+				isValid= false;
+			}
+		if(isvalid==false) {
+			return false;
+		}
+		
+	}

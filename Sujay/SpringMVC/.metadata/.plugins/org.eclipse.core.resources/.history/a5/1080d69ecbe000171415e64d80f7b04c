@@ -1,0 +1,67 @@
+<div id="mainHome" style=" width: 100%;height:100%; background-color:#e8e8e8;"  >
+	<!-- ************************************* Start of Top Bar ********************************************** -->
+	<top-nav-bar></top-nav-bar>
+	<!-- ************************************* End of Top Bar  ********************************************** -->
+
+	<div class="row" id="homeId" style="margin-top: 0px; ">
+	<div class="col-sm-3" id="sidebarWrapper" ng-show="showSideBar">
+		<!-- ************* Start of Side Bar ***************** -->
+			<div style="margin-left: 100px; "><side-nav-bar></side-nav-bar></div>
+			
+			<!-- ********************* End of Side Bar *************************** -->
+	</div>
+
+
+	<div class="col-sm-9" id="mainWrapper">
+		<br> <br>
+			<div class="{{card}}" id="card" style=" width:300px; background-color: {{note.noteColor}}"
+				ng-if="note.reminderStatus!=''" ng-repeat="note in notes | orderBy : '-modifiedDate' | filter :{ deleteStatus:'false'}">
+				<div id="moreOptions" style="float: right">
+					<span style="cursor: pointer"
+						ng-click="note.pin='false';note.archiveStatus='false' ; updateNote(note)"> <img
+						alt="pin" style="height: 17px" src="images/pin.png"></img>
+					</span>
+				</div>
+				<img ng-if="note.image!=''" ng-click="open(note)" style="height: 200px;" ng-src="{{note.image}}"/><br>
+			<span ng-click="removeImage(note)" > <img ng-if="note.image!=''" alt="delete" id="moreOptions" src="images/delete.svg" height="20px" style="float: right"></span>
+				
+				<b><div style="margin: 8px" ng-bind-html="note.title"></div></b>
+				<div style="margin: 7px" ng-bind-html="note.description"></div><br/>
+				<br>
+				<div ng-click="openReminder(note)" ng-bind="note.reminderStatus"><span ng-click="deleteReminder(note)" style="margin-left: 10px; background-color:{{note.noteColor}};"><img alt="cancel" src="images/cancel.svg" height="20px"></span></div>
+				
+				<div ng-repeat="noteLabel in note.labels">
+							<div id="label" ng-if="label.labelName!=''"> {{noteLabel.labelName}}
+								<span class="closebtn" ng-click="deleteNoteLabel(note,noteLabel)">&#x274C;</span>
+							</div>
+						</div>
+				<div>
+								<url-program></url-program>
+								</div>
+				
+				<div id="moreOptions">
+
+							<div class="dropdown" style="float: left">
+							
+							<reminder-icon></reminder-icon>
+								
+								<img alt="collaborator" src="images/collaborator.png" height="20px" ng-click="openCollaborate(note,User)">
+								
+								<note-color></note-color>
+								
+								<img alt="image" src="images/ic_photo_black_24px.svg" height="20px" ng-click="openImageUploader(note)">
+								<input id="imageuploader" ng-show="false" type="file" ng-file-select="onFileSelect($files)" ng-model="imageSrc">
+								 
+								<span ng-click="archiveNote(note)">
+									<img ng-if="!Archive" alt="archive" src="images/ic_archive_black_24px.svg" height="20px">
+									<img ng-if="Archive" alt="unarchive" src="images/unarchive.svg" height="20px"></span>
+									
+									<more-option></more-option>
+			
+							</div>
+						</div>
+				
+			</div>
+		</div>
+	</div>
+</div>

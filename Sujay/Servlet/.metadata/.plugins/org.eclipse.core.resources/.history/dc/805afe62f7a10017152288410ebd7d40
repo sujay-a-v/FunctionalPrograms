@@ -1,0 +1,80 @@
+<%@ page language="java" contentType="text/html; charset=UTF-8"
+    pageEncoding="UTF-8"%>
+<!DOCTYPE html PUBLIC "-//W3C//DTD HTML 4.01 Transitional//EN" "http://www.w3.org/TR/html4/loose.dtd">
+<html>
+<head>
+<meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+<title>Insert title here</title>
+
+<!-- <link href="http://code.jquery.com/jquery-latest.min.js" rel="stylesheet" type="text/css"> -->
+	
+<link href="http://fonts.googleapis.com/css?family=oxygen" rel="stylesheet" type="text/css">	
+	<style type="text/css">
+		table,tr,th{
+		border: 1px solid;
+		font-family: "oxygen",sans-sarif;
+		}
+		th{
+		background-color: #ff66ff;
+		color: white;
+		}
+		body{
+		text-align: center;
+		}
+		.container{
+		margin-left: auto;
+		margin-right: auto;
+		width: 40%;
+		}
+	
+	</style>
+	
+	<script src="http://code.jquery.com/jquery-latest.min.js"></script>
+	<script type="text/javascript">
+		$(document).ready(function(){
+			$("#tablediv").click(function(event){
+					#.get('newStudent',fuction(responseJson){
+						if(responseJson!=null)
+							{
+								$("#studenttable")find("tr:gt(0)").remove();
+								var table1=$("#studenttable");
+								$.each(responseJson,function(key,value){
+									var newRow=$("<tr><td></td><td></td><td></td><td></td><td></td></tr>");
+									newRow.children().eq(0).text(value['Name']);
+									newRow.children().eq(1).text(value['Mobile']);
+									newRow.children().eq(2).text(value['Email']);
+									newRow.children().eq(3).text(value['Branch']);
+									newRow.children().eq(4).text(value['Student-ID']);
+									newRow.appendTo(table1);
+									
+								});
+							}
+					});
+				$("#tablediv").show();
+			});
+		});
+		
+	
+	</script>
+	
+</head>
+<body class="container">
+	
+	<h3>table</h3>
+	<input type="button" value="click" id="showTable" />
+	<div id="tablediv">
+		<table cellspacing="0" id="studenttable">
+			<tr>
+				<th scope="col">Name</th>
+				<th scope="col">Mobile</th>
+				<th scope="col">Email</th>
+				<th scope="col">Branch</th>
+				<th scope="col">Student-ID</th>
+				
+			</tr>
+		</table>
+	
+	</div>
+
+</body>
+</html>

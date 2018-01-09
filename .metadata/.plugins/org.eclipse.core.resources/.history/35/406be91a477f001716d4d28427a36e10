@@ -1,0 +1,20 @@
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+		String template="Hello <<UserName>>, How are you?";
+		System.out.println("Enter user name");
+		Scanner sc1=new Scanner(System.in);
+		Scanner sc2=new Scanner(System.in);
+		String name=sc2.nextLine();
+		while(name.length()<3)
+		{
+			System.out.println("Length of name must be atleast 3");
+			name=sc2.nextLine();
+		}
+		template.replace("<<UserName>>", name);
+		System.out.println(template);
+	}
+
+}

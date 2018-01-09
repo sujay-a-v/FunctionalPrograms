@@ -1,0 +1,48 @@
+package Sudeep;
+
+import java.util.Scanner;
+
+public class Program2 {
+
+	public static void main(String[] args) {
+		Scanner sc1=new Scanner(System.in);
+		Scanner sc2=new Scanner(System.in);
+		System.out.println("Enter first string");
+		String first=sc2.nextLine();
+		System.out.println("Enter second string");
+		String second=sc2.nextLine();
+		char[] first1=first.toCharArray();
+		char[] second2=second.toCharArray();
+		char[] funiq=unique(first1);
+		char[] suniq=unique(second2);
+		int flag=0;
+		outer:for(int i=0;i<funiq.length;i++)
+		{
+			for(int j=0;j<suniq.length;j++)
+			{
+				if(funiq[i]==suniq[j])
+					continue outer;
+			}
+			System.out.println("Not anagrams");
+			flag=1;
+			break outer;
+		}
+		if(flag!=1)
+			System.out.println("anagrams");
+	}
+	public static char[] unique(char[] arg)
+	{
+		char[] uniq_itm=new char[arg.length];
+		int count=0;
+		loop:for(int i=0;i<arg.length;i++)
+		{
+			for(int j=0;j<uniq_itm.length;j++)
+				if(arg[i]==uniq_itm[j]) continue loop;
+			uniq_itm[count++]=arg[i];
+		}
+		char[] uniq=new char[count];
+		for(int k=0;k<count;k++) 
+			uniq[k]=uniq_itm[k];
+		return uniq;
+	}
+}

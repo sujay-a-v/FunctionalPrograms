@@ -1,0 +1,32 @@
+import java.util.Scanner;
+
+public class Program {
+
+	public static void main(String[] args) {
+	System.out.println("Enter number of digits");
+	Scanner sc1=new Scanner(System.in);
+	int size=sc1.nextInt();
+	int[] arr=new int[size];
+	int count=0;
+	System.out.println("Enter the digits");
+	for(int i=0;i<arr.length;i++)
+	{
+		arr[i]=sc1.nextInt();
+	}
+	for(int i=0;i<arr.length;i++)
+	{
+		for(int j=0;j<arr.length;j++)
+		{
+			for(int k=0;k<arr.length;k++)
+			{
+				if(i!=j && j!=k && k!=i && (arr[i] + arr[j] + arr[k] == 0))
+				{
+					count++;
+					System.out.println(i+" "+j+" "+k);
+				}
+			}
+		}
+	}
+	System.out.println(count);;
+	}	
+}
